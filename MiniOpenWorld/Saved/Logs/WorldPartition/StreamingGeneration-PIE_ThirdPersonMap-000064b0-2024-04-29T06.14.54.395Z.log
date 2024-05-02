@@ -1,0 +1,478 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0935C1DA4CB15CA5DBB43DA7DCC64860 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1215799546 Label:Cube68 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16332.702 Y=4922.048 Z=9514.130), Max=(X=19599.752 Y=7697.431 Z=11142.871) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0B3C7AD14A96CAE5680D44BA494EE3D3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656398573 Label:Cube77 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10968.669 Y=8097.912 Z=365.000), Max=(X=11071.189 Y=8155.606 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:0BA76BA34BA3C718CDA8E68463EFA21A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634228566 Label:Cube44 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12236.070 Y=8136.524 Z=90.000), Max=(X=12421.775 Y=8258.174 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:0C418A154BB0EAD6B437DEA0B062F8DE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1675938346 Label:Cube47 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9475.000 Y=7475.000 Z=-1020.000), Max=(X=10625.000 Y=8125.000 Z=-520.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1744287B42B97C9E10C8F68025853BD1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673713581 Label:Cube84 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11573.909 Y=8301.298 Z=365.000), Max=(X=11673.909 Y=8326.298 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:1DDBED6C4FC660C1DF2C8CA60A4B1A76 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656399575 Label:Cube79 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10825.444 Y=8106.669 Z=597.500), Max=(X=11402.215 Y=8683.440 Z=622.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:1FF6D8CC43CBF7D496130597B32C9357 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2114004360 Label:Cube61 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15090.324 Y=1845.598 Z=1231.772), Max=(X=16967.795 Y=1995.598 Z=2841.160) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:20AF55264FA9E55F5B4D309DCE8B39BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1418446550 Label:Cube72 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6928.586 Y=5584.754 Z=-336.432), Max=(X=8295.010 Y=6855.995 Z=-7.867) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:25DFBCAF4910CAA9CDBBFDB5B204159E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617824556 Label:Cube35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12945.130 Y=8146.468 Z=-125.000), Max=(X=13170.130 Y=8171.468 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:26F3904147BBDA60984B6D9122683018 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1648656345 Label:Cube46 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9567.500 Y=7542.500 Z=-835.000), Max=(X=13292.500 Y=8617.500 Z=-185.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2CFD63B5453C32FC67AC44869CF5B30A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634227565 Label:Cube43 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12184.108 Y=8106.524 Z=-125.000), Max=(X=12283.211 Y=8178.174 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:321D01D343ED3EB9E99D1E925FF5BA40 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617820552 Label:Cube32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12732.630 Y=8586.468 Z=-125.000), Max=(X=13182.630 Y=8611.468 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:35F923F74030E207EAA32F91633F7AE0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170139316 Label:Cube22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9542.663 Y=7891.053 Z=107.500), Max=(X=10176.637 Y=8525.028 Z=132.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:38ECEF7E4D27FF9F34649A9149B38EAB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634223560 Label:Cube39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11968.438 Y=8490.075 Z=-125.000), Max=(X=12370.650 Y=8736.726 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=6850.000 Y=1620.000 Z=210.013), Max=(X=6930.000 Y=1700.000 Z=394.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3ABC2B6C4BC4A3032B62919841B5A640 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170137312 Label:Cube18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9536.918 Y=7886.232 Z=-125.000), Max=(X=9845.323 Y=8247.022 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:3B5D6F0B46EDD8ED805C71B0F9569FD5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170134309 Label:Cube16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9537.842 Y=8222.368 Z=-125.000), Max=(X=9898.632 Y=8530.773 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:42F2035F4CFF8C7758722F9F7BC47BD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634226562 Label:Cube40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12338.084 Y=8326.769 Z=-125.000), Max=(X=12584.735 Y=8728.980 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:44B9A3914D895475AB25C786A4C7C620 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617824555 Label:Cube34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12725.130 Y=8153.968 Z=-125.000), Max=(X=12750.130 Y=8603.968 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:453D573549DA664C66B566877E2F3B4D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1157516544 Label:Cube65 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13084.086 Y=2169.677 Z=2235.972), Max=(X=14428.192 Y=3331.519 Z=6374.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:476C15B945FCDBA2CB8FF39859BD161F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1455063325 Label:Cube29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10885.000 Y=7615.000 Z=-190.000), Max=(X=13235.000 Y=8865.000 Z=-90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4A6C6A2741EB08046EAFA68716249427 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656394568 Label:Cube73 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10822.879 Y=8513.086 Z=365.000), Max=(X=11254.291 Y=8690.488 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:4FCDE99549F6C820DA8A1D8302093CF4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170138313 Label:Cube19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9983.453 Y=8021.900 Z=-125.000), Max=(X=10171.883 Y=8185.679 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:507C8ACF49AA2AF895DD32991E8BC9F0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1189608545 Label:Cube66 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14215.556 Y=3145.552 Z=6239.718), Max=(X=16541.955 Y=5131.634 Z=9668.430) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:52709E034696BFA4126A70B01FDCC215 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673714583 Label:Cube86 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11578.909 Y=8308.798 Z=597.500), Max=(X=12028.909 Y=8758.798 Z=622.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:549433D348A40D42A9E195AA25A1D90F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656398574 Label:Cube78 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11025.051 Y=8118.433 Z=580.000), Max=(X=11221.540 Y=8210.329 Z=680.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:60E822D547CD4C23F686DF9FFCFA1020 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1925183354 Label:Cube55 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9565.000 Y=8402.500 Z=-1202.500), Max=(X=10715.000 Y=8577.500 Z=-1177.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:63DC1EC746D576C43EE716A1E6599C13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170138314 Label:Cube20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9816.838 Y=7882.094 Z=-125.000), Max=(X=9909.512 Y=7965.524 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:7213FF67441F8D792348E9B382F58F98 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1252752320 Label:Cube24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12892.500 Y=775.641 Z=927.861), Max=(X=13467.500 Y=1944.359 Z=2252.139) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:76006B7E420F03E9362BB491D600A90F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656397571 Label:Cube75 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10818.396 Y=8104.104 Z=365.000), Max=(X=10995.798 Y=8535.516 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:7A68190942BB2646C57243AD20D30BD8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170139315 Label:Cube21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9862.801 Y=7920.661 Z=90.000), Max=(X=10032.080 Y=8068.370 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:7B2F07A64737BE65FE4FFAB2D1436969 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1272139322 Label:Cube26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12732.500 Y=1282.657 Z=999.569), Max=(X=13307.500 Y=1848.802 Z=1910.456) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7BE1666248713010DB51BCA837237687 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1253788549 Label:Cube71 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16666.502 Y=-3049.954 Z=9144.130), Max=(X=20325.952 Y=-850.567 Z=10772.871) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7EEE317C4B4480E36AF22E89CBA1681A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1737307349 Label:Cube50 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12502.234 Y=7740.000 Z=-1288.251), Max=(X=13151.096 Y=8740.000 Z=-639.389) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:866841964AEDAA86096B64A1F9C4AF8A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2019239357 Label:Cube58 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12905.000 Y=3584.623 Z=1055.577), Max=(X=13055.000 Y=4620.098 Z=1381.288) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8B60403443FA1C4A3231748595D95B74 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2145708363 Label:Cube64 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10863.361 Y=-5386.737 Z=1432.353), Max=(X=11055.618 Y=-5194.480 Z=4282.353) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:939C40B84E6C11C124F0BB900BE28CF0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1373667324 Label:Cube28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7544.218 Y=1370.000 Z=66.624), Max=(X=8595.631 Y=1970.000 Z=347.435) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:93D1509545FB6091B75492834D093EEE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2145711366 Label:Cube67 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12943.441 Y=448.236 Z=447.792), Max=(X=13299.297 Y=1089.978 Z=1838.157) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:95FF3283482E8F8875BFEB910986F8A0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B3F001_1726167116 Label:Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9517.500 Y=7455.000 Z=-210.000), Max=(X=13342.500 Y=8705.000 Z=-110.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9622A1EE47D890BA623A44BED6BDDD94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617825557 Label:Cube36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12727.630 Y=8146.468 Z=-125.000), Max=(X=12827.630 Y=8171.468 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:9637A31A4DE99172391CAF86E099A7CE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673708576 Label:Cube80 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11578.909 Y=8741.298 Z=365.000), Max=(X=12028.909 Y=8766.298 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:997B843244C525B5CE7BBBACEFAB4434 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634226563 Label:Cube41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11965.693 Y=8111.769 Z=-125.000), Max=(X=12212.344 Y=8513.980 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:9E01741D4A3FD7F11E439388B0C70226 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617826559 Label:Cube38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12732.630 Y=8153.968 Z=107.500), Max=(X=13182.630 Y=8603.968 Z=132.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:9FB684BC492A4B1461C3998559D4352D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1788146351 Label:Cube52 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8562.425 Y=477.500 Z=247.029), Max=(X=9037.425 Y=2502.500 Z=347.029) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A130ADBF4F90F02DBC3D5EB6A63BB30E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1821012352 Label:Cube53 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7553.029 Y=2157.590 Z=-99.462), Max=(X=9035.143 Y=4174.687 Z=350.657) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A1CD986949D4F58D3019E6B3C855FD78 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673712579 Label:Cube82 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11571.409 Y=8308.798 Z=365.000), Max=(X=11596.409 Y=8758.798 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:A6475D6248AEBFFBE9F82AB5C0D9A7FD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1762373350 Label:Cube51 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9435.000 Y=7971.733 Z=-1040.904), Max=(X=9885.000 Y=8753.544 Z=-348.745) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ADBE02CE418729FD8BAEA28FDC48FED2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1979586355 Label:Cube56 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12905.000 Y=6303.844 Z=2692.584), Max=(X=13055.000 Y=8680.886 Z=3680.038) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:BB68AF1A4C7467877861E0B8861ACA6C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1253784547 Label:Cube69 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12969.027 Y=316.493 Z=1865.972), Max=(X=14454.559 Y=1260.767 Z=6004.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C447218D403AAFD1E81C60A438052FD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2038672358 Label:Cube59 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12905.000 Y=2624.308 Z=1051.774), Max=(X=13055.000 Y=3716.888 Z=1769.178) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C4FF95D94A20703B835C85AD3E909286 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634227564 Label:Cube42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12372.469 Y=8215.274 Z=-125.000), Max=(X=12579.824 Y=8349.424 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:C9E7BB1044C00ECD77CC19A0D6AD46AC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617825558 Label:Cube37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12787.630 Y=8146.468 Z=90.000), Max=(X=12987.630 Y=8171.468 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:CBFF60524320C6E6B04077ADF451D022 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170137311 Label:Cube17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9866.317 Y=8162.631 Z=-125.000), Max=(X=10174.722 Y=8523.421 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:D11954144B9CB079463F69A414C73001 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656397572 Label:Cube76 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11173.052 Y=8172.301 Z=365.000), Max=(X=11393.034 Y=8272.748 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:D12F5C1B4BDF8468D231DDB4E984C12C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2114006362 Label:Cube63 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13223.710 Y=1845.598 Z=1051.774), Max=(X=14316.290 Y=1995.598 Z=1769.178) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D1306AA944DFEFF9DFB1E9B71E046B9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634229567 Label:Cube45 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11972.188 Y=8115.519 Z=107.500), Max=(X=12586.900 Y=8730.230 Z=132.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:D1CA583148D459BA13031CAEC5E75B5D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2114005361 Label:Cube62 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14184.025 Y=1845.598 Z=1055.577), Max=(X=15219.500 Y=1995.598 Z=1381.288) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D34998FF487FDD7215D77E9FE8863FA7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656396570 Label:Cube74 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11222.464 Y=8251.173 Z=365.000), Max=(X=11399.865 Y=8682.585 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:D64598A74540F839C153FCB87BB775AB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1501532327 Label:Cube31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10766.144 Y=7872.500 Z=-205.851), Max=(X=11916.037 Y=8047.500 Z=92.325) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D80E99064CEFA8C78527F2BF394F4C73 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617823554 Label:Cube33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13155.130 Y=8153.968 Z=-125.000), Max=(X=13180.130 Y=8603.968 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:DA20E1234C0216BE33F479B9B65FA477 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1262550321 Label:Cube25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12662.500 Y=1627.857 Z=1340.274), Max=(X=13237.500 Y=2512.576 Z=2569.736) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E05BE82E46E43CD83F4C7FB60E46D245 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1253787548 Label:Cube70 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14273.035 Y=-1054.118 Z=5869.718), Max=(X=16869.063 Y=531.302 Z=9298.430) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E4E2F2334A9EBB81950B089216A73637 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2005081356 Label:Cube57 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12905.000 Y=4490.922 Z=1231.772), Max=(X=13055.000 Y=6368.393 Z=2841.160) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E5EFCDD441163E9BBEE4A899B3703156 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1325472323 Label:Cube27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12562.500 Y=2114.615 Z=1147.404), Max=(X=13137.500 Y=2907.675 Z=2096.025) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E743E1404960ECBA4B9430944905B302 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673710578 Label:Cube81 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12001.409 Y=8308.798 Z=365.000), Max=(X=12026.409 Y=8758.798 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:E7ED1E5B43CE4210543522BBAC2FE6C9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1242491319 Label:Cube23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12812.500 Y=1280.000 Z=1287.500), Max=(X=13387.500 Y=1980.000 Z=2412.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:ED5B7770413ECAC144335FB75716CD8A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1703036347 Label:Cube48 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10565.000 Y=7470.000 Z=-1440.000), Max=(X=11715.000 Y=8570.000 Z=-940.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EE600D76410A63F276B80CB5F556A149 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673713582 Label:Cube85 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11633.909 Y=8301.298 Z=580.000), Max=(X=11833.909 Y=8326.298 Z=680.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- Guid:EF4374284F26203580B78D8520455A75 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1719375348 Label:Cube49 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11623.833 Y=7580.000 Z=-1457.152), Max=(X=12512.893 Y=8580.000 Z=-203.069) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F5055C3F4213BC3C2943BA9BE96E21E9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1866753353 Label:Cube54 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7627.505 Y=3854.749 Z=-112.422), Max=(X=8177.505 Y=5879.749 Z=-12.422) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:FCC133E04A9AE0D1033975A1F6E8F4D4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2114003359 Label:Cube60 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16839.816 Y=1845.598 Z=2669.498), Max=(X=19569.243 Y=1995.598 Z=3785.209) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FD773B3A41924A6B6EA108827792DA3A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1475125326 Label:Cube30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10775.000 Y=8020.000 Z=-185.000), Max=(X=12125.000 Y=8720.000 Z=365.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FFE351914C79B9DCF61EAC8AA4DF97C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673712580 Label:Cube83 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11791.409 Y=8301.298 Z=365.000), Max=(X=12016.409 Y=8326.298 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0935C1DA4CB15CA5DBB43DA7DCC64860 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1215799546 Label:Cube68 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16332.702 Y=4922.048 Z=9514.130), Max=(X=19599.752 Y=7697.431 Z=11142.871) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0B3C7AD14A96CAE5680D44BA494EE3D3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656398573 Label:Cube77 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10968.669 Y=8097.912 Z=365.000), Max=(X=11071.189 Y=8155.606 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:0BA76BA34BA3C718CDA8E68463EFA21A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634228566 Label:Cube44 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12236.070 Y=8136.524 Z=90.000), Max=(X=12421.775 Y=8258.174 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:0C418A154BB0EAD6B437DEA0B062F8DE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1675938346 Label:Cube47 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9475.000 Y=7475.000 Z=-1020.000), Max=(X=10625.000 Y=8125.000 Z=-520.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:1744287B42B97C9E10C8F68025853BD1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673713581 Label:Cube84 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11573.909 Y=8301.298 Z=365.000), Max=(X=11673.909 Y=8326.298 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:1DDBED6C4FC660C1DF2C8CA60A4B1A76 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656399575 Label:Cube79 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10825.444 Y=8106.669 Z=597.500), Max=(X=11402.215 Y=8683.440 Z=622.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:1FF6D8CC43CBF7D496130597B32C9357 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2114004360 Label:Cube61 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15090.324 Y=1845.598 Z=1231.772), Max=(X=16967.795 Y=1995.598 Z=2841.160) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:20AF55264FA9E55F5B4D309DCE8B39BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1418446550 Label:Cube72 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6928.586 Y=5584.754 Z=-336.432), Max=(X=8295.010 Y=6855.995 Z=-7.867) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:25DFBCAF4910CAA9CDBBFDB5B204159E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617824556 Label:Cube35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12945.130 Y=8146.468 Z=-125.000), Max=(X=13170.130 Y=8171.468 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:26F3904147BBDA60984B6D9122683018 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1648656345 Label:Cube46 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9567.500 Y=7542.500 Z=-835.000), Max=(X=13292.500 Y=8617.500 Z=-185.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:2CFD63B5453C32FC67AC44869CF5B30A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634227565 Label:Cube43 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12184.108 Y=8106.524 Z=-125.000), Max=(X=12283.211 Y=8178.174 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:321D01D343ED3EB9E99D1E925FF5BA40 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617820552 Label:Cube32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12732.630 Y=8586.468 Z=-125.000), Max=(X=13182.630 Y=8611.468 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:35F923F74030E207EAA32F91633F7AE0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170139316 Label:Cube22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9542.663 Y=7891.053 Z=107.500), Max=(X=10176.637 Y=8525.028 Z=132.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:38ECEF7E4D27FF9F34649A9149B38EAB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634223560 Label:Cube39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11968.438 Y=8490.075 Z=-125.000), Max=(X=12370.650 Y=8736.726 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=6850.000 Y=1620.000 Z=210.013), Max=(X=6930.000 Y=1700.000 Z=394.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:3ABC2B6C4BC4A3032B62919841B5A640 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170137312 Label:Cube18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9536.918 Y=7886.232 Z=-125.000), Max=(X=9845.323 Y=8247.022 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:3B5D6F0B46EDD8ED805C71B0F9569FD5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170134309 Label:Cube16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9537.842 Y=8222.368 Z=-125.000), Max=(X=9898.632 Y=8530.773 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:42F2035F4CFF8C7758722F9F7BC47BD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634226562 Label:Cube40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12338.084 Y=8326.769 Z=-125.000), Max=(X=12584.735 Y=8728.980 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:44B9A3914D895475AB25C786A4C7C620 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617824555 Label:Cube34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12725.130 Y=8153.968 Z=-125.000), Max=(X=12750.130 Y=8603.968 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:453D573549DA664C66B566877E2F3B4D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1157516544 Label:Cube65 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13084.086 Y=2169.677 Z=2235.972), Max=(X=14428.192 Y=3331.519 Z=6374.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:476C15B945FCDBA2CB8FF39859BD161F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1455063325 Label:Cube29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10885.000 Y=7615.000 Z=-190.000), Max=(X=13235.000 Y=8865.000 Z=-90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:4A6C6A2741EB08046EAFA68716249427 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656394568 Label:Cube73 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10822.879 Y=8513.086 Z=365.000), Max=(X=11254.291 Y=8690.488 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:4FCDE99549F6C820DA8A1D8302093CF4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170138313 Label:Cube19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9983.453 Y=8021.900 Z=-125.000), Max=(X=10171.883 Y=8185.679 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:507C8ACF49AA2AF895DD32991E8BC9F0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1189608545 Label:Cube66 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14215.556 Y=3145.552 Z=6239.718), Max=(X=16541.955 Y=5131.634 Z=9668.430) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:52709E034696BFA4126A70B01FDCC215 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673714583 Label:Cube86 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11578.909 Y=8308.798 Z=597.500), Max=(X=12028.909 Y=8758.798 Z=622.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:549433D348A40D42A9E195AA25A1D90F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656398574 Label:Cube78 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11025.051 Y=8118.433 Z=580.000), Max=(X=11221.540 Y=8210.329 Z=680.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:60E822D547CD4C23F686DF9FFCFA1020 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1925183354 Label:Cube55 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9565.000 Y=8402.500 Z=-1202.500), Max=(X=10715.000 Y=8577.500 Z=-1177.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:63DC1EC746D576C43EE716A1E6599C13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170138314 Label:Cube20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9816.838 Y=7882.094 Z=-125.000), Max=(X=9909.512 Y=7965.524 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:7213FF67441F8D792348E9B382F58F98 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1252752320 Label:Cube24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12892.500 Y=775.641 Z=927.861), Max=(X=13467.500 Y=1944.359 Z=2252.139) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:76006B7E420F03E9362BB491D600A90F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656397571 Label:Cube75 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10818.396 Y=8104.104 Z=365.000), Max=(X=10995.798 Y=8535.516 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:7A68190942BB2646C57243AD20D30BD8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170139315 Label:Cube21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9862.801 Y=7920.661 Z=90.000), Max=(X=10032.080 Y=8068.370 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:7B2F07A64737BE65FE4FFAB2D1436969 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1272139322 Label:Cube26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12732.500 Y=1282.657 Z=999.569), Max=(X=13307.500 Y=1848.802 Z=1910.456) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:7BE1666248713010DB51BCA837237687 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1253788549 Label:Cube71 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16666.502 Y=-3049.954 Z=9144.130), Max=(X=20325.952 Y=-850.567 Z=10772.871) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:7EEE317C4B4480E36AF22E89CBA1681A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1737307349 Label:Cube50 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12502.234 Y=7740.000 Z=-1288.251), Max=(X=13151.096 Y=8740.000 Z=-639.389) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:866841964AEDAA86096B64A1F9C4AF8A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2019239357 Label:Cube58 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12905.000 Y=3584.623 Z=1055.577), Max=(X=13055.000 Y=4620.098 Z=1381.288) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:8B60403443FA1C4A3231748595D95B74 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2145708363 Label:Cube64 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10863.361 Y=-5386.737 Z=1432.353), Max=(X=11055.618 Y=-5194.480 Z=4282.353) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:939C40B84E6C11C124F0BB900BE28CF0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1373667324 Label:Cube28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7544.218 Y=1370.000 Z=66.624), Max=(X=8595.631 Y=1970.000 Z=347.435) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:93D1509545FB6091B75492834D093EEE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2145711366 Label:Cube67 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12943.441 Y=448.236 Z=447.792), Max=(X=13299.297 Y=1089.978 Z=1838.157) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:95FF3283482E8F8875BFEB910986F8A0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B3F001_1726167116 Label:Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9517.500 Y=7455.000 Z=-210.000), Max=(X=13342.500 Y=8705.000 Z=-110.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:9622A1EE47D890BA623A44BED6BDDD94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617825557 Label:Cube36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12727.630 Y=8146.468 Z=-125.000), Max=(X=12827.630 Y=8171.468 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:9637A31A4DE99172391CAF86E099A7CE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673708576 Label:Cube80 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11578.909 Y=8741.298 Z=365.000), Max=(X=12028.909 Y=8766.298 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:997B843244C525B5CE7BBBACEFAB4434 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634226563 Label:Cube41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11965.693 Y=8111.769 Z=-125.000), Max=(X=12212.344 Y=8513.980 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:9E01741D4A3FD7F11E439388B0C70226 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617826559 Label:Cube38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12732.630 Y=8153.968 Z=107.500), Max=(X=13182.630 Y=8603.968 Z=132.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:9FB684BC492A4B1461C3998559D4352D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1788146351 Label:Cube52 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8562.425 Y=477.500 Z=247.029), Max=(X=9037.425 Y=2502.500 Z=347.029) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:A130ADBF4F90F02DBC3D5EB6A63BB30E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1821012352 Label:Cube53 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7553.029 Y=2157.590 Z=-99.462), Max=(X=9035.143 Y=4174.687 Z=350.657) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:A1CD986949D4F58D3019E6B3C855FD78 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673712579 Label:Cube82 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11571.409 Y=8308.798 Z=365.000), Max=(X=11596.409 Y=8758.798 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:A6475D6248AEBFFBE9F82AB5C0D9A7FD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1762373350 Label:Cube51 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9435.000 Y=7971.733 Z=-1040.904), Max=(X=9885.000 Y=8753.544 Z=-348.745) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:ADBE02CE418729FD8BAEA28FDC48FED2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1979586355 Label:Cube56 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12905.000 Y=6303.844 Z=2692.584), Max=(X=13055.000 Y=8680.886 Z=3680.038) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:BB68AF1A4C7467877861E0B8861ACA6C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1253784547 Label:Cube69 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12969.027 Y=316.493 Z=1865.972), Max=(X=14454.559 Y=1260.767 Z=6004.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:C447218D403AAFD1E81C60A438052FD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2038672358 Label:Cube59 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12905.000 Y=2624.308 Z=1051.774), Max=(X=13055.000 Y=3716.888 Z=1769.178) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:C4FF95D94A20703B835C85AD3E909286 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634227564 Label:Cube42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12372.469 Y=8215.274 Z=-125.000), Max=(X=12579.824 Y=8349.424 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:C9E7BB1044C00ECD77CC19A0D6AD46AC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617825558 Label:Cube37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12787.630 Y=8146.468 Z=90.000), Max=(X=12987.630 Y=8171.468 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:CBFF60524320C6E6B04077ADF451D022 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1170137311 Label:Cube17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9866.317 Y=8162.631 Z=-125.000), Max=(X=10174.722 Y=8523.421 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:D11954144B9CB079463F69A414C73001 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656397572 Label:Cube76 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11173.052 Y=8172.301 Z=365.000), Max=(X=11393.034 Y=8272.748 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:D12F5C1B4BDF8468D231DDB4E984C12C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2114006362 Label:Cube63 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13223.710 Y=1845.598 Z=1051.774), Max=(X=14316.290 Y=1995.598 Z=1769.178) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:D1306AA944DFEFF9DFB1E9B71E046B9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1634229567 Label:Cube45 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11972.188 Y=8115.519 Z=107.500), Max=(X=12586.900 Y=8730.230 Z=132.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:D1CA583148D459BA13031CAEC5E75B5D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2114005361 Label:Cube62 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14184.025 Y=1845.598 Z=1055.577), Max=(X=15219.500 Y=1995.598 Z=1381.288) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:D34998FF487FDD7215D77E9FE8863FA7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1656396570 Label:Cube74 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11222.464 Y=8251.173 Z=365.000), Max=(X=11399.865 Y=8682.585 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:D64598A74540F839C153FCB87BB775AB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1501532327 Label:Cube31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10766.144 Y=7872.500 Z=-205.851), Max=(X=11916.037 Y=8047.500 Z=92.325) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:D80E99064CEFA8C78527F2BF394F4C73 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1617823554 Label:Cube33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13155.130 Y=8153.968 Z=-125.000), Max=(X=13180.130 Y=8603.968 Z=125.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:DA20E1234C0216BE33F479B9B65FA477 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1262550321 Label:Cube25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12662.500 Y=1627.857 Z=1340.274), Max=(X=13237.500 Y=2512.576 Z=2569.736) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:E05BE82E46E43CD83F4C7FB60E46D245 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1253787548 Label:Cube70 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14273.035 Y=-1054.118 Z=5869.718), Max=(X=16869.063 Y=531.302 Z=9298.430) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:E4E2F2334A9EBB81950B089216A73637 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2005081356 Label:Cube57 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12905.000 Y=4490.922 Z=1231.772), Max=(X=13055.000 Y=6368.393 Z=2841.160) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:E5EFCDD441163E9BBEE4A899B3703156 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1325472323 Label:Cube27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12562.500 Y=2114.615 Z=1147.404), Max=(X=13137.500 Y=2907.675 Z=2096.025) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:E743E1404960ECBA4B9430944905B302 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673710578 Label:Cube81 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12001.409 Y=8308.798 Z=365.000), Max=(X=12026.409 Y=8758.798 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:E7ED1E5B43CE4210543522BBAC2FE6C9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1242491319 Label:Cube23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12812.500 Y=1280.000 Z=1287.500), Max=(X=13387.500 Y=1980.000 Z=2412.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:ED5B7770413ECAC144335FB75716CD8A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1703036347 Label:Cube48 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10565.000 Y=7470.000 Z=-1440.000), Max=(X=11715.000 Y=8570.000 Z=-940.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:EE600D76410A63F276B80CB5F556A149 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673713582 Label:Cube85 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11633.909 Y=8301.298 Z=580.000), Max=(X=11833.909 Y=8326.298 Z=680.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:EF4374284F26203580B78D8520455A75 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1719375348 Label:Cube49 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11623.833 Y=7580.000 Z=-1457.152), Max=(X=12512.893 Y=8580.000 Z=-203.069) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:F5055C3F4213BC3C2943BA9BE96E21E9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1866753353 Label:Cube54 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7627.505 Y=3854.749 Z=-112.422), Max=(X=8177.505 Y=5879.749 Z=-12.422) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:FCC133E04A9AE0D1033975A1F6E8F4D4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_2114003359 Label:Cube60 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16839.816 Y=1845.598 Z=2669.498), Max=(X=19569.243 Y=1995.598 Z=3785.209) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:FD773B3A41924A6B6EA108827792DA3A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B4F001_1475125326 Label:Cube30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10775.000 Y=8020.000 Z=-185.000), Max=(X=12125.000 Y=8720.000 Z=365.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:FFE351914C79B9DCF61EAC8AA4DF97C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54EAF486B5F001_1673712580 Label:Cube83 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11791.409 Y=8301.298 Z=365.000), Max=(X=12016.409 Y=8326.298 Z=615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Mapa/Casa FolderGuid:23C2FED7460E099B7F8A51BA11F2099D
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ThirdPersonMap Persistent Level
+ |- Always loaded Actor Count: 101 
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_3
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_8
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_9
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_10
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_11
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_12
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_13
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B5F001_1615232551
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4E/QS9MW84B4GPXPZRO3IM422
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B5F001_1617822553
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9U/572U00F3FXEO85BLIGMGV4
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B5F001_1634225561
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JZ/62I0NJLETR2K62PYGEHZYM
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B5F001_1656396569
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3X/70PW27ZZ6GDQRZU8KDMU87
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B5F001_1673710577
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2K/Y0ZF2R4CWTGTKRINJ5AHSX
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeGizmoActiveActor_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B3F001_1726167116
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4J/XPNDVGCXB7UYB0O5X8EK2L
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1170134309
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DG/8ERZKELZLJCZWAGRN2N41C
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1170137311
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AJ/7GBPFSJ2HGGUPM2JHCFKAN
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1170137312
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EV/MRI8CRT5D7U95CWHVBX0K1
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1170138313
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AX/MZ4Z34K4MFYCKPH5B0NYBO
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1170138314
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OK/WYXUEJQC739SRYI6X9UWSD
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1170139315
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/N2/LZ2RL26OPFHMROMBX0C2NM
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1170139316
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ZE/24LSIVRVUEJ7LEPTDWMFP3
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1242491319
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XP/C84JAB376PKQB9IYKH0M5M
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1252752320
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HO/359E952XSIOQB4FIFHJF61
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1262550321
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8B/C1RXK6QMKKJ54Z3X7EKT08
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1272139322
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/FM/JQ4M4C5QN1WN9AV9X46BPB
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1325472323
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UR/O2WYAD7O70LXH9TSN167XL
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1373667324
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/97/Q6WQMFYEN0G3AVNY5NQQB0
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1455063325
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BR/7JDH1CUEWS5TEK95VE798I
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1475125326
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ST/L0JV3OA3UVF2VBQAUCG3BQ
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1501532327
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/A0/W88LADJN4XGY6BXCEZGYCS
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1648656345
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IH/0COR51VSYXIPCUTOC79MI0
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1675938346
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/D7/MCQBL8VK8UGTJKDYWQDHNO
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1703036347
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/U1/6UC8ESRE6RYIXU0AN5EAOW
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1719375348
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LF/5F1GSUAZ5QKWC4H9JCOJV2
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1737307349
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/8L/ESYRVXL0VU4KLF3H1I9RR3
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1762373350
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/49/WT4ORNAID1QI5SNC2JFOCD
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1788146351
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TO/HCTZUIKT4AM2ST1Y2BW1GQ
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1821012352
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TJ/DCB3B3NX7WSIIUJYM567EK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1866753353
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/BL/6O761WA1DSSNJOER1IBTEX
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1925183354
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XR/AXOKN4EFS1UAHJDQC78J8G
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_1979586355
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/H0/ASBTP1F540NQ82UO3ATHPB
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2005081356
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FR/0R2IB68WDBSTQ1ZB0JD5N6
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2019239357
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/G2/M5POJ0RWSLR66AB85CD0QG
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2038672358
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8P/LHL29NJAOT1TUVDVMU277K
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2114003359
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Q5/1966E1FWVEHV8O3BANPR5L
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2114004360
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/3B/3DV2AH6FXC7N135N1PKQNX
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2114005361
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3Z/0PTY2GBI9GIOCQD999EZD7
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2114006362
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/U6/CAUV00COJ4OXHUKX69N4GS
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2145708363
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/8F/1LPFUP8VOK1NHROUC3UGLV
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B4F001_2145711366
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3W/0RTBFBW3RRN3YNAK34S2LU
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1157516544
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NR/0WL24MTNAUVWFNYOAO2M3G
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1189608545
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IM/G3RZ4PNJSBTJ6S3SCPZF23
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1215799546
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TK/0AT03AHNO6068UNLWP5FMP
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1253784547
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OM/1SKQSP7NMW787DPNE4UU5E
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1253787548
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/O8/P311NUSW5DLMRY9NJ6N4KU
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1253788549
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/M1/VT1Q247US4H5TPZWJNKJFG
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1418446550
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/27/9JCH5G9QCDLAIWB7X4PG9I
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1617820552
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XV/M7BK2F6K19P4UH9IGVY4FU
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1617823554
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/U4/T5OEC26H0TU0M2865JWAHH
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1617824555
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/96/F4USIDP5FWQ2YB8U4DPDC4
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1617824556
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2B/OEDGAZ3LDJWOLVTWKLO0OH
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1617825557
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/10/UIEUVC0LIUO9YQVINJYIKY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1617825558
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HO/DXUR7X7W4D6PRZXYUTFA60
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1617826559
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IA/KP0NDL7R36RLWL7IAW6LJ6
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1634223560
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CV/VG8K6GBST6KBC95WLY9NDG
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1634226562
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/H6/MQR7A5ZP2XUTGIZKLQVZRP
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1634226563
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OB/1QOUEEP8OLR4E8TTA03BO9
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1634227564
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VK/8MWYJBZGNHGMWMC2GW9CGH
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1634227565
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JU/UJ0070FWXF9Z9JA7OQAD3P
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1634228566
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RD/5KL44E3QPMMZSUDNU8S443
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1634229567
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/7W/643IA3TLV2V8HVYRCFYET5
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1656394568
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/57/60QINFCUUVN9IZSCWH5532
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1656396570
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IU/0LURJ3K80K2VZ5W7F2NF60
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1656397571
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/K2/5KUV87B1GPYY6TU7UG1J2G
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1656397572
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/RL/45ZTSEPHF7C3XA9WGIDMQA
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1656398573
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/28/IUOAM5VLU0SA7XPGLUPHDY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1656398574
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/L2/1VHW2Q9THE4W9LMMBE8TEW
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1656399575
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/K6/7IRSZ6L6FKVNTE71F5B5X1
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1673708576
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8Q/ZG138OLM6LD4F1D6R1XASQ
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1673710578
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0S/YK0YUL1Y6CNUOAO2DOZIZ3
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1673712579
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZI/QP2792F7PEY1HFLMFUYC82
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1673712580
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YM/Q16UZV242NITUUZMY04ON5
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1673713581
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/N3/96LXM71JJ4IXA7O7KQE3LV
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1673713582
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ZK/P72HJEUY3WEXTP19R4WXXD
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B5F001_1673714583
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BQ/XMVEU2W30D7NZRN0JEP4LV
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonExampleMap_C_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
