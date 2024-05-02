@@ -2462,3 +2462,580 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.02-09.47.48:052][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
 [2024.05.02-09.47.48:057][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
 [2024.05.02-09.47.48:070][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.19 sec)
+[2024.05.02-09.48.03:777][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.48.03:818][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.48.03:826][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.02-09.48.03:836][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.02-09.48.03:847][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.26 sec)
+[2024.05.02-09.48.09:043][578]Cmd: EDIT COPY
+[2024.05.02-09.48.09:235][599]Cmd: EDIT PASTE
+[2024.05.02-09.48.26:975][668]Cmd: EDIT COPY
+[2024.05.02-09.48.27:468][711]Cmd: EDIT PASTE
+[2024.05.02-09.48.29:384][917]Cmd: TRANSACTION UNDO
+[2024.05.02-09.48.29:384][917]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.49.13:625][808]Cmd: TRANSACTION UNDO
+[2024.05.02-09.49.13:625][808]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.49.23:010][709]Cmd: DELETE
+[2024.05.02-09.49.23:010][709]Cmd: ACTOR DELETE
+[2024.05.02-09.49.23:013][709]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.49.23:022][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.02-09.49.23:024][709]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.05.02-09.50.57:995][996]Cmd: EDIT COPY
+[2024.05.02-09.50.58:200][ 20]Cmd: EDIT PASTE
+[2024.05.02-09.51.24:760][853]Cmd: TRANSACTION UNDO
+[2024.05.02-09.51.24:760][853]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.51.56:742][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.51.56:786][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B7F101_2053856866 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PI/I7KILDPNV2WWKEZV7L6ZEL.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BFF001_1227780715 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TW/H6STDJEN925JSIXELCL6E8.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF48673F101_1767400959 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RW/PACPK80WXZYYK7HFZT2O20.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF48664F101_1614101255 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/VD/DRWKLYSBS5G0H1YS8EMAOZ.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF48673F101_1767396958 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8O/TATUME0JSG74TBK4H4LCL4.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF001_1819780747 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PZ/279CNN8U5HSNHMQQZ87XPC.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF001_1486660734 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OS/VLF7GRGNC7PDPLHWUWR7XV.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B7F101_2141580868 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/X7/J3813PTCXEBLN47FK12GLZ.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1109526290 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/7O/BBYJBZBHMPQZXJA0OD8ORV.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1109526289 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K0/45OI86JLECG3YHRR1SXAWI.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1109525288 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7H/B6PVHI6N618DDHYK3YAGQH.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1109525287 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QS/XCWMEHFQPZ1G63EB6IZLCU.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1109524286 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/II/66IO402CCCUHAEM3CQOPRL.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1109519285 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8G/B8TRTOFK3H3EKFWLM5H8GX.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1978841093 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GI/V3KLRCRY1SIUSD6R2EYOHL.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1966647092 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/O6/5X5YUCBO4QNH2YLNU1MVC4.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1959857091 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JK/CY2C1ZDUL9RBSJG6LMH46L.PackageMetaData in its package
+[2024.05.02-09.51.56:787][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1946924090 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7U/R8O6CBQXCMULD2RLISK5OM.PackageMetaData in its package
+[2024.05.02-09.51.56:789][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.02-09.51.56:796][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-09.51.56:804][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.02-09.51.56:820][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.02-09.51.56:859][165]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.05.02-09.51.56:860][165]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ThirdPersonMapC4E962534F539BF9D85E369C0C6F5A61.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.05.02-09.51.56:868][165]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.063
+[2024.05.02-09.51.56:869][165]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/OZ/OHK0SOJ99S42A488GEWF89
+[2024.05.02-09.51.56:869][165]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/OHK0SOJ99S42A488GEWF89EF57960844C891F18765C48C0100314E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/OZ/OHK0SOJ99S42A488GEWF89.uasset'
+[2024.05.02-09.51.56:871][165]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J1/0LVXUKQG1MBR2CTJVAL6EQ
+[2024.05.02-09.51.56:871][165]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/0LVXUKQG1MBR2CTJVAL6EQ4D8F444A4F459248E855A88AFE347F58.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J1/0LVXUKQG1MBR2CTJVAL6EQ.uasset'
+[2024.05.02-09.51.56:883][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 1.40 sec)
+[2024.05.02-09.51.56:887][165]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.51.56:887][165]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.05.02-09.51.56:887][165]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1800988323
+[2024.05.02-09.51.56:887][165]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1819222324
+[2024.05.02-09.51.56:893][165]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF48672F101_1950192750 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/K5/60RXLWP7P37TZ38YX7MTN1.PackageMetaData in its package
+[2024.05.02-09.51.56:893][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.02-09.51.56:916][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-09.52.02:861][824]Cmd: EDIT COPY
+[2024.05.02-09.52.03:077][849]Cmd: EDIT PASTE
+[2024.05.02-09.52.19:102][549]Cmd: EDIT COPY
+[2024.05.02-09.52.19:312][572]Cmd: EDIT PASTE
+[2024.05.02-09.52.21:905][810]Cmd: EDIT COPY
+[2024.05.02-09.52.22:087][823]Cmd: EDIT PASTE
+[2024.05.02-09.52.24:929][100]Cmd: EDIT COPY
+[2024.05.02-09.52.25:127][123]Cmd: EDIT PASTE
+[2024.05.02-09.53.07:482][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.53.07:540][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.02-09.53.07:578][945]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.05.02-09.53.07:578][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ThirdPersonMap8654439B4D625B02158F129C61CB7B42.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.05.02-09.53.07:585][945]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.069
+[2024.05.02-09.53.07:586][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FH/QH8C3QCJ7GO4IIXZXSJ6WT
+[2024.05.02-09.53.07:586][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/QH8C3QCJ7GO4IIXZXSJ6WTC22134E94CCD49FC87C2DC854003F151.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FH/QH8C3QCJ7GO4IIXZXSJ6WT.uasset'
+[2024.05.02-09.53.07:587][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZI/VE3PME9XZV9K1M79SKAEKL
+[2024.05.02-09.53.07:587][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/VE3PME9XZV9K1M79SKAEKL5ACA247B45C5B6D23415D5B2E2BEE24C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZI/VE3PME9XZV9K1M79SKAEKL.uasset'
+[2024.05.02-09.53.07:589][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HY/89HVI6QUTG5OQBSLUAUFUZ
+[2024.05.02-09.53.07:589][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/89HVI6QUTG5OQBSLUAUFUZ17F8E36C48354357182A439BC8EBDEDA.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HY/89HVI6QUTG5OQBSLUAUFUZ.uasset'
+[2024.05.02-09.53.07:591][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/3M/VY5MA7ZMCAL2FNHPUKZ77S
+[2024.05.02-09.53.07:591][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/VY5MA7ZMCAL2FNHPUKZ77S891D4493437A364E6ECC4D95540CA092.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/3M/VY5MA7ZMCAL2FNHPUKZ77S.uasset'
+[2024.05.02-09.53.07:593][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N0/OX0NA8FU3YI3IV96SGJJMO
+[2024.05.02-09.53.07:593][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/OX0NA8FU3YI3IV96SGJJMO80BACC314E3A16E922301FABA5D0DFBC.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N0/OX0NA8FU3YI3IV96SGJJMO.uasset'
+[2024.05.02-09.53.07:594][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FI/7I8Q1FHEFW0JQ6HSNZQ9HU
+[2024.05.02-09.53.07:595][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/7I8Q1FHEFW0JQ6HSNZQ9HUACBD1CEC45567F4A36C95685EFBE568E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FI/7I8Q1FHEFW0JQ6HSNZQ9HU.uasset'
+[2024.05.02-09.53.07:596][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/C0/91U4V905PDMYUQQ0DFYEVK
+[2024.05.02-09.53.07:596][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/91U4V905PDMYUQQ0DFYEVKE7EB865244084FD136127C8CFB5DE6A0.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/C0/91U4V905PDMYUQQ0DFYEVK.uasset'
+[2024.05.02-09.53.07:598][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UT/S1OH5LMLWK1BPHL96MLBRQ
+[2024.05.02-09.53.07:598][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/S1OH5LMLWK1BPHL96MLBRQ8C77E701430B65B1AB15D1A7D20F0FE1.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UT/S1OH5LMLWK1BPHL96MLBRQ.uasset'
+[2024.05.02-09.53.07:600][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A0/JSZUBBLWGE6XH0N1250LK9
+[2024.05.02-09.53.07:600][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/JSZUBBLWGE6XH0N1250LK92E36132D4EE5BED10312F7B2224F7BF3.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A0/JSZUBBLWGE6XH0N1250LK9.uasset'
+[2024.05.02-09.53.07:602][945]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KQ/5ZQVLS0JO447375M0JE45O
+[2024.05.02-09.53.07:602][945]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/5ZQVLS0JO447375M0JE45O11CA8CFD4A4E31F82887C2B5BC4A468F.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KQ/5ZQVLS0JO447375M0JE45O.uasset'
+[2024.05.02-09.53.07:613][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1.53 sec)
+[2024.05.02-09.53.07:615][945]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1681003313
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1681007314
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1681007315
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1718908316
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1718912317
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1718912318
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1741662319
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1741666320
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1753181321
+[2024.05.02-09.53.07:615][945]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1753185322
+[2024.05.02-09.53.23:779][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.53.23:827][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.05.02-09.53.23:869][736]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.05.02-09.53.23:869][736]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ThirdPersonMapED07DEC64B63561B3490ECA069A7D13F.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.05.02-09.53.23:875][736]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.068
+[2024.05.02-09.53.23:887][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.64 sec)
+[2024.05.02-09.53.23:889][736]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.05.02-09.53.23:889][736]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.05.02-09.53.47:269][440]Cmd: EDIT COPY
+[2024.05.02-09.53.47:452][462]Cmd: EDIT PASTE
+[2024.05.02-09.54.32:184][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.54.32:219][425]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LM/UDJCUWIIBI51G4BX7NIT54
+[2024.05.02-09.54.32:220][425]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/UDJCUWIIBI51G4BX7NIT54319A53D7431A872C7C5B17AC2D141B7E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LM/UDJCUWIIBI51G4BX7NIT54.uasset'
+[2024.05.02-09.54.32:221][425]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DK/GNAG6MX0K6BI5ONAFNZQXX
+[2024.05.02-09.54.32:222][425]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GNAG6MX0K6BI5ONAFNZQXX47D2C2F7416EE3D2B3F2D9920CC3F556.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DK/GNAG6MX0K6BI5ONAFNZQXX.uasset'
+[2024.05.02-09.54.32:223][425]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E2/P8O8D0TED93CJWO1JDLFID
+[2024.05.02-09.54.32:224][425]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/P8O8D0TED93CJWO1JDLFID39027A794D19F1E4180C1680056D9FDC.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E2/P8O8D0TED93CJWO1JDLFID.uasset'
+[2024.05.02-09.54.32:225][425]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/J1/309JE6BVS7HM5140A0RAPW
+[2024.05.02-09.54.32:225][425]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/309JE6BVS7HM5140A0RAPW9801B13D4F57F6A372C9C686EE069EEE.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/J1/309JE6BVS7HM5140A0RAPW.uasset'
+[2024.05.02-09.54.32:227][425]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/FR/DZBJLC9AUC1RIPSMB9YUHG
+[2024.05.02-09.54.32:227][425]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/DZBJLC9AUC1RIPSMB9YUHGEDE41F9A43A86A2EEA74F180F59377CB.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/FR/DZBJLC9AUC1RIPSMB9YUHG.uasset'
+[2024.05.02-09.54.32:241][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.70 sec)
+[2024.05.02-09.54.32:243][425]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.54.32:243][425]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BCF001_1319624137
+[2024.05.02-09.54.32:243][425]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BCF001_1319625139
+[2024.05.02-09.54.32:243][425]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BBF001_2082554943
+[2024.05.02-09.54.32:243][425]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BCF001_1319624138
+[2024.05.02-09.54.32:243][425]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_2139206325
+[2024.05.02-09.54.53:729][862]Cmd: TRANSACTION UNDO
+[2024.05.02-09.54.53:729][862]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.55.01:813][627]Cmd: TRANSACTION UNDO
+[2024.05.02-09.55.01:813][627]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.55.45:355][405]Cmd: EDIT COPY
+[2024.05.02-09.55.45:545][426]Cmd: EDIT PASTE
+[2024.05.02-09.55.59:653][962]Cmd: EDIT COPY
+[2024.05.02-09.55.59:836][976]Cmd: EDIT PASTE
+[2024.05.02-09.56.06:839][736]Cmd: EDIT COPY
+[2024.05.02-09.56.07:040][758]Cmd: EDIT PASTE
+[2024.05.02-09.56.19:388][129]Cmd: EDIT COPY
+[2024.05.02-09.56.19:610][150]Cmd: EDIT PASTE
+[2024.05.02-09.56.31:945][534]Cmd: EDIT COPY
+[2024.05.02-09.56.32:158][553]Cmd: EDIT PASTE
+[2024.05.02-09.56.43:744][841]Cmd: EDIT COPY
+[2024.05.02-09.56.43:921][856]Cmd: EDIT PASTE
+[2024.05.02-09.56.46:785][170]Cmd: DELETE
+[2024.05.02-09.56.46:785][170]Cmd: ACTOR DELETE
+[2024.05.02-09.56.46:800][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.56.46:810][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.02-09.56.46:811][170]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.05.02-09.57.02:418][978]Cmd: EDIT COPY
+[2024.05.02-09.57.02:593][999]Cmd: EDIT PASTE
+[2024.05.02-09.57.23:976][390]Cmd: TRANSACTION UNDO
+[2024.05.02-09.57.23:976][390]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.57.31:051][ 20]Cmd: TRANSACTION UNDO
+[2024.05.02-09.57.31:051][ 20]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.58.01:230][255]Cmd: EDIT COPY
+[2024.05.02-09.58.01:414][268]Cmd: EDIT PASTE
+[2024.05.02-09.58.11:148][325]Cmd: EDIT COPY
+[2024.05.02-09.58.11:344][345]Cmd: EDIT PASTE
+[2024.05.02-09.58.16:746][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.58.16:746][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.58.16:746][924]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+[2024.05.02-09.58.16:746][924]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+[2024.05.02-09.58.18:634][146]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.58.18:634][146]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.58.18:638][146]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1336645514
+[2024.05.02-09.58.18:639][146]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1336645514
+[2024.05.02-09.58.19:622][255]Cmd: TRANSACTION UNDO
+[2024.05.02-09.58.19:622][255]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.58.21:349][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.58.21:349][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.58.21:349][340]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.05.02-09.58.21:350][340]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.05.02-09.58.21:963][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.58.21:964][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.58.21:968][383]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1339974515
+[2024.05.02-09.58.21:969][383]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1339974515
+[2024.05.02-09.59.39:978][226]Cmd: TRANSACTION UNDO
+[2024.05.02-09.59.39:978][226]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.02-09.59.40:547][242]Cmd: TRANSACTION UNDO
+[2024.05.02-09.59.40:547][242]LogEditorTransaction: Undo Scale Elements
+[2024.05.02-10.00.21:182][406]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-10.00.21:186][406]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-10.00.21:186][406]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-10.00.21:196][406]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9 ms (total: 26 ms)
+[2024.05.02-10.00.21:196][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-10.00.21:196][406]PIE: New page: PIE session: ThirdPersonMap (2 may. 2024 14:00:21)
+[2024.05.02-10.00.21:219][406]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2024.05.02-10.00.21:221][406]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.05.02-10.00.21:237][407]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-10.00.21:368][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131297s)
+[2024.05.02-10.00.21:368][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.131338s)
+[2024.05.02-10.00.21:376][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.05.02-10.00.21:378][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.00.21:378][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.00.21:378][407]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-10.00.21:379][407]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-10.00.21:379][407]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-10.00.21:379][407]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-10.00.21:379][407]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-10.00.21:386][407]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-10.00.21:386][407]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 267 ms)
+[2024.05.02-10.00.21:386][407]LogPlayLevel: PIE: World Init took: (0.008665s)
+[2024.05.02-10.00.21:386][407]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.02-10.00.21:386][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-10.00.21:386][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-10.00.21:386][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-10.00.21:386][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-10.00.21:386][407]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-10.00.21:386][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-10.00.21:386][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-10.00.21:386][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-10.00.21:386][407]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-10.00.21:386][407]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-10.00.21:386][407]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-10.00.21:389][407]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-10.00.21:406][407]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2024.05.02-10.00.21:406][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-10.00.21:406][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-10.00.21:406][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-10.00.21:408][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.02-10.00.21:408][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=4
+[2024.05.02-10.00.21:409][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.02-10.00.21:409][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.02-10.00.21:409][407]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.02-10.00.21:409][407]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.05.02-10.00.21:409][407]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.02-10.00.21:410][407]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-10.00.21:427][407]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-12.00.21
+[2024.05.02-10.00.21:428][407]LogWorld: Bringing up level for play took: 0.016626
+[2024.05.02-10.00.21:431][407]PIE: Server logged in
+[2024.05.02-10.00.21:432][407]PIE: Play in editor total start time 0,246 seconds.
+[2024.05.02-10.01.09:339][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-10.01.09:339][143]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-10.01.09:339][143]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-10.01.09:342][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.01.09:342][143]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-10.01.09:344][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-10.01.09:347][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.01.09:356][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-10.01.09:357][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.02-10.01.09:357][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.02-10.01.09:357][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.02-10.01.09:360][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-10.01.09:365][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.02-10.01.09:414][144]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.05.02-10.02.38:302][408]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-10.02.38:306][408]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-10.02.38:306][408]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-10.02.38:314][408]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9 ms (total: 36 ms)
+[2024.05.02-10.02.38:315][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-10.02.38:315][408]PIE: New page: PIE session: ThirdPersonMap (2 may. 2024 14:02:38)
+[2024.05.02-10.02.38:315][408]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2024.05.02-10.02.38:316][408]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.05.02-10.02.38:333][409]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-10.02.38:465][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131668s)
+[2024.05.02-10.02.38:466][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.131711s)
+[2024.05.02-10.02.38:475][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-10.02.38:478][409]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.02.38:478][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.02.38:478][409]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-10.02.38:479][409]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-10.02.38:479][409]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-10.02.38:479][409]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-10.02.38:479][409]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-10.02.38:486][409]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-10.02.38:486][409]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 274 ms)
+[2024.05.02-10.02.38:486][409]LogPlayLevel: PIE: World Init took: (0.008559s)
+[2024.05.02-10.02.38:486][409]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.02-10.02.38:486][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-10.02.38:486][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-10.02.38:486][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-10.02.38:486][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-10.02.38:486][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-10.02.38:486][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-10.02.38:486][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-10.02.38:486][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-10.02.38:487][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-10.02.38:487][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-10.02.38:487][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-10.02.38:488][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-10.02.38:505][409]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2024.05.02-10.02.38:505][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-10.02.38:505][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-10.02.38:505][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-10.02.38:506][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.02-10.02.38:506][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=5
+[2024.05.02-10.02.38:507][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.02-10.02.38:507][409]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.02-10.02.38:507][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.02-10.02.38:507][409]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.05.02-10.02.38:507][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.02-10.02.38:509][409]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-10.02.38:525][409]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-12.02.38
+[2024.05.02-10.02.38:525][409]LogWorld: Bringing up level for play took: 0.016120
+[2024.05.02-10.02.38:528][409]PIE: Server logged in
+[2024.05.02-10.02.38:529][409]PIE: Play in editor total start time 0,224 seconds.
+[2024.05.02-10.03.28:209][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-10.03.28:210][359]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-10.03.28:210][359]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-10.03.28:212][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.03.28:213][359]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-10.03.28:215][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-10.03.28:217][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.03.28:225][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-10.03.28:228][359]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.02-10.03.28:228][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-10.03.28:229][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-10.03.28:236][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.05.02-10.03.28:283][360]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.05.02-10.04.12:565][154]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.02-10.05.01:967][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.02-10.05.01:971][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YP/E9FXYG93UE9KGST39NATXI_Auto1
+[2024.05.02-10.05.01:971][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/E9FXYG93UE9KGST39NATXI_Auto165F4CBF64473862A2CA2FDA42C54600C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YP/E9FXYG93UE9KGST39NATXI_Auto1.uasset'
+[2024.05.02-10.05.01:974][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/06/MXQKJUJLS0AZUFJD980E66_Auto1
+[2024.05.02-10.05.01:974][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/MXQKJUJLS0AZUFJD980E66_Auto142AD9807404A8FE4B583D3A7E3352889.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/06/MXQKJUJLS0AZUFJD980E66_Auto1.uasset'
+[2024.05.02-10.05.01:977][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/58/JPGKG8W8HPGELBHLXMDHLA_Auto1
+[2024.05.02-10.05.01:977][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/JPGKG8W8HPGELBHLXMDHLA_Auto19316A92B4091D2041A2E318221B6F08D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/58/JPGKG8W8HPGELBHLXMDHLA_Auto1.uasset'
+[2024.05.02-10.05.01:981][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IS/48NFBHDO9Q6UILH3G12FEQ_Auto1
+[2024.05.02-10.05.01:981][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/48NFBHDO9Q6UILH3G12FEQ_Auto10788ADAD403D630A85CB458D6755A3F4.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IS/48NFBHDO9Q6UILH3G12FEQ_Auto1.uasset'
+[2024.05.02-10.05.01:981][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/V4/AR8UY0VBRV55DQLYZ7M5R3_Auto1
+[2024.05.02-10.05.01:982][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/AR8UY0VBRV55DQLYZ7M5R3_Auto1A225A46E4F748D9EBBBB84805F77F72B.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/V4/AR8UY0VBRV55DQLYZ7M5R3_Auto1.uasset'
+[2024.05.02-10.05.01:984][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LM/UDJCUWIIBI51G4BX7NIT54_Auto1
+[2024.05.02-10.05.01:984][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/UDJCUWIIBI51G4BX7NIT54_Auto160825DEF448126F08E4E6FA2246138D2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LM/UDJCUWIIBI51G4BX7NIT54_Auto1.uasset'
+[2024.05.02-10.05.01:985][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/2P/IW82C2Q3YAE5BHDT0OP80C_Auto1
+[2024.05.02-10.05.01:985][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/IW82C2Q3YAE5BHDT0OP80C_Auto150E53CF946C6499D8B32C68E82A015A8.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/2P/IW82C2Q3YAE5BHDT0OP80C_Auto1.uasset'
+[2024.05.02-10.05.01:987][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DK/GNAG6MX0K6BI5ONAFNZQXX_Auto1
+[2024.05.02-10.05.01:987][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GNAG6MX0K6BI5ONAFNZQXX_Auto18978909D43792C7D3A88999CE88F195E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DK/GNAG6MX0K6BI5ONAFNZQXX_Auto1.uasset'
+[2024.05.02-10.05.01:990][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/R6/RKUN3BEW5WFZ20T6IAL8F4_Auto1
+[2024.05.02-10.05.01:990][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/RKUN3BEW5WFZ20T6IAL8F4_Auto145CA8D044195336934C3D3BD4833167A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/R6/RKUN3BEW5WFZ20T6IAL8F4_Auto1.uasset'
+[2024.05.02-10.05.01:992][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E2/P8O8D0TED93CJWO1JDLFID_Auto1
+[2024.05.02-10.05.01:992][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/P8O8D0TED93CJWO1JDLFID_Auto179656807407CC1998E526598C69AF32B.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E2/P8O8D0TED93CJWO1JDLFID_Auto1.uasset'
+[2024.05.02-10.05.01:994][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/J1/309JE6BVS7HM5140A0RAPW_Auto1
+[2024.05.02-10.05.01:994][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/309JE6BVS7HM5140A0RAPW_Auto19EA269EF4B78B1EFFD4886846569B546.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/J1/309JE6BVS7HM5140A0RAPW_Auto1.uasset'
+[2024.05.02-10.05.01:995][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IG/TNKGPXDBL3Y528KWO0M1FC_Auto1
+[2024.05.02-10.05.01:995][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/TNKGPXDBL3Y528KWO0M1FC_Auto1EF3F16F74C3ED33721891BA563EC1877.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IG/TNKGPXDBL3Y528KWO0M1FC_Auto1.uasset'
+[2024.05.02-10.05.01:998][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N0/ANO88UGKHOA7MPF2TISDX0_Auto1
+[2024.05.02-10.05.01:998][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ANO88UGKHOA7MPF2TISDX0_Auto1BD4232FF4BEB80DE2391CFB7840897C7.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N0/ANO88UGKHOA7MPF2TISDX0_Auto1.uasset'
+[2024.05.02-10.05.01:999][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2W/4TSXZR3JMRAUCT8S3VP98U_Auto1
+[2024.05.02-10.05.01:999][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/4TSXZR3JMRAUCT8S3VP98U_Auto16667BC6B4DFD85F16CA9FC93CB52DAE2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2W/4TSXZR3JMRAUCT8S3VP98U_Auto1.uasset'
+[2024.05.02-10.05.02:001][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1W/QRZ6XPJKSMV58N9IYEN17M_Auto1
+[2024.05.02-10.05.02:001][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/QRZ6XPJKSMV58N9IYEN17M_Auto18DFED0754DD0CCD7EFBCDD82C854965C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1W/QRZ6XPJKSMV58N9IYEN17M_Auto1.uasset'
+[2024.05.02-10.05.02:003][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/1I/UXHRJC3T8QLICSCNYWCYV1_Auto1
+[2024.05.02-10.05.02:003][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/UXHRJC3T8QLICSCNYWCYV1_Auto19F6D0FDC406F2989F8F632ACC03991E2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/1I/UXHRJC3T8QLICSCNYWCYV1_Auto1.uasset'
+[2024.05.02-10.05.02:005][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7Z/XFIKIV8W3G5657CPGEY4Q5_Auto1
+[2024.05.02-10.05.02:005][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/XFIKIV8W3G5657CPGEY4Q5_Auto11351D6B74D6AA8593BF39C94FC293C52.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7Z/XFIKIV8W3G5657CPGEY4Q5_Auto1.uasset'
+[2024.05.02-10.05.02:007][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0Y/KL40KN1XAACCCHFECAWDFQ_Auto1
+[2024.05.02-10.05.02:007][903]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/KL40KN1XAACCCHFECAWDFQ_Auto1D548640140157AA20967FAB34F79EA32.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0Y/KL40KN1XAACCCHFECAWDFQ_Auto1.uasset'
+[2024.05.02-10.05.02:009][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.052
+[2024.05.02-10.05.02:009][903]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2024.05.02-10.05.22:175][ 58]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap
+[2024.05.02-10.05.22:177][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.05.22:177][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.05.22:184][ 58]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.02-10.05.23:170][ 58]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.02-10.05.30:921][774]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-10.05.30:921][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.08.44:407][815]Cmd: EDIT COPY
+[2024.05.02-10.08.44:622][840]Cmd: EDIT PASTE
+[2024.05.02-10.08.54:138][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-10.08.54:142][953]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-10.08.54:142][953]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-10.08.54:152][953]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 10 ms (total: 46 ms)
+[2024.05.02-10.08.54:152][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-10.08.54:152][953]PIE: New page: PIE session: ThirdPersonMap (2 may. 2024 14:08:54)
+[2024.05.02-10.08.54:179][953]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2024.05.02-10.08.54:181][953]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.05.02-10.08.54:200][954]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-10.08.54:331][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131167s)
+[2024.05.02-10.08.54:331][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.131205s)
+[2024.05.02-10.08.54:344][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.02-10.08.54:346][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.08.54:346][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.08.54:346][954]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-10.08.54:347][954]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-10.08.54:347][954]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-10.08.54:347][954]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-10.08.54:347][954]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-10.08.54:354][954]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-10.08.54:354][954]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 282 ms)
+[2024.05.02-10.08.54:354][954]LogPlayLevel: PIE: World Init took: (0.008687s)
+[2024.05.02-10.08.54:354][954]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.02-10.08.54:354][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-10.08.54:354][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-10.08.54:354][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-10.08.54:354][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-10.08.54:354][954]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-10.08.54:354][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-10.08.54:354][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-10.08.54:354][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-10.08.54:354][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-10.08.54:354][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-10.08.54:354][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-10.08.54:355][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-10.08.54:374][954]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2024.05.02-10.08.54:374][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-10.08.54:374][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-10.08.54:374][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-10.08.54:374][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.02-10.08.54:374][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=6
+[2024.05.02-10.08.54:376][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.02-10.08.54:376][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.02-10.08.54:376][954]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.02-10.08.54:376][954]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.05.02-10.08.54:376][954]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.02-10.08.54:377][954]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-10.08.54:394][954]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-12.08.54
+[2024.05.02-10.08.54:394][954]LogWorld: Bringing up level for play took: 0.016100
+[2024.05.02-10.08.54:397][954]PIE: Server logged in
+[2024.05.02-10.08.54:398][954]PIE: Play in editor total start time 0,256 seconds.
+[2024.05.02-10.09.11:079][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-10.09.11:079][945]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-10.09.11:079][945]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-10.09.11:082][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.09.11:082][945]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-10.09.11:084][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-10.09.11:086][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.09.11:099][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-10.09.11:099][945]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.02-10.09.11:100][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-10.09.11:101][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-10.09.11:110][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.02-10.09.11:161][946]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.05.02-10.09.53:827][845]Cmd: DELETE
+[2024.05.02-10.09.53:827][845]Cmd: ACTOR DELETE
+[2024.05.02-10.09.53:831][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-10.09.53:842][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.02-10.09.53:844][845]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.05.02-10.09.57:301][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.09.57:353][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-10.09.57:365][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.02-10.09.57:376][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-10.09.57:377][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YP/E9FXYG93UE9KGST39NATXI
+[2024.05.02-10.09.57:377][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/E9FXYG93UE9KGST39NATXI04667EED4553833E03D3F6A4A94FC081.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YP/E9FXYG93UE9KGST39NATXI.uasset'
+[2024.05.02-10.09.57:380][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/06/MXQKJUJLS0AZUFJD980E66
+[2024.05.02-10.09.57:380][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/MXQKJUJLS0AZUFJD980E66E28B9B3049A85298F16BB0B06E14FD93.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/06/MXQKJUJLS0AZUFJD980E66.uasset'
+[2024.05.02-10.09.57:381][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/58/JPGKG8W8HPGELBHLXMDHLA
+[2024.05.02-10.09.57:382][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/JPGKG8W8HPGELBHLXMDHLA7A7FE5D9472BB01E520B2394FB890C4D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/58/JPGKG8W8HPGELBHLXMDHLA.uasset'
+[2024.05.02-10.09.57:383][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IS/48NFBHDO9Q6UILH3G12FEQ
+[2024.05.02-10.09.57:383][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/48NFBHDO9Q6UILH3G12FEQAE36EAD44296AB348E49D79DB59492E5.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IS/48NFBHDO9Q6UILH3G12FEQ.uasset'
+[2024.05.02-10.09.57:385][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/V4/AR8UY0VBRV55DQLYZ7M5R3
+[2024.05.02-10.09.57:385][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/AR8UY0VBRV55DQLYZ7M5R344D6EF9740C38620330CCF8F9400B61A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/V4/AR8UY0VBRV55DQLYZ7M5R3.uasset'
+[2024.05.02-10.09.57:387][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LM/UDJCUWIIBI51G4BX7NIT54
+[2024.05.02-10.09.57:387][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/UDJCUWIIBI51G4BX7NIT54D7C275EF4FCD098204FEEC81B20013E2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LM/UDJCUWIIBI51G4BX7NIT54.uasset'
+[2024.05.02-10.09.57:389][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/2P/IW82C2Q3YAE5BHDT0OP80C
+[2024.05.02-10.09.57:389][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/IW82C2Q3YAE5BHDT0OP80C4369EEE140E1D586B0A6D3ACA7FC0DE4.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/2P/IW82C2Q3YAE5BHDT0OP80C.uasset'
+[2024.05.02-10.09.57:391][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DK/GNAG6MX0K6BI5ONAFNZQXX
+[2024.05.02-10.09.57:391][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GNAG6MX0K6BI5ONAFNZQXXA3CF42014CFB5FE48127A49A8A6A0E23.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DK/GNAG6MX0K6BI5ONAFNZQXX.uasset'
+[2024.05.02-10.09.57:393][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/R6/RKUN3BEW5WFZ20T6IAL8F4
+[2024.05.02-10.09.57:393][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/RKUN3BEW5WFZ20T6IAL8F4A3E68A9447092AEDC497ACABD557B707.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/R6/RKUN3BEW5WFZ20T6IAL8F4.uasset'
+[2024.05.02-10.09.57:395][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E2/P8O8D0TED93CJWO1JDLFID
+[2024.05.02-10.09.57:395][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/P8O8D0TED93CJWO1JDLFID889FFC37488D7436FC00BE87B75AB364.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E2/P8O8D0TED93CJWO1JDLFID.uasset'
+[2024.05.02-10.09.57:397][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/J1/309JE6BVS7HM5140A0RAPW
+[2024.05.02-10.09.57:397][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/309JE6BVS7HM5140A0RAPW05AE423D41C31BE265BBA5B052FD912F.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/J1/309JE6BVS7HM5140A0RAPW.uasset'
+[2024.05.02-10.09.57:398][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IG/TNKGPXDBL3Y528KWO0M1FC
+[2024.05.02-10.09.57:398][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/TNKGPXDBL3Y528KWO0M1FCE0B8037C4F5522DB5F991183ECA81C26.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IG/TNKGPXDBL3Y528KWO0M1FC.uasset'
+[2024.05.02-10.09.57:400][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N0/ANO88UGKHOA7MPF2TISDX0
+[2024.05.02-10.09.57:400][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ANO88UGKHOA7MPF2TISDX0BB815D93447BE0FF79509E8AA5A90E97.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N0/ANO88UGKHOA7MPF2TISDX0.uasset'
+[2024.05.02-10.09.57:401][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2W/4TSXZR3JMRAUCT8S3VP98U
+[2024.05.02-10.09.57:401][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/4TSXZR3JMRAUCT8S3VP98UA2CA670F4E340004F2EF50B29C75802D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2W/4TSXZR3JMRAUCT8S3VP98U.uasset'
+[2024.05.02-10.09.57:403][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1W/QRZ6XPJKSMV58N9IYEN17M
+[2024.05.02-10.09.57:403][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/QRZ6XPJKSMV58N9IYEN17MA4BA1EC34FAC06BD6904F2BAA36E033C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1W/QRZ6XPJKSMV58N9IYEN17M.uasset'
+[2024.05.02-10.09.57:404][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/1I/UXHRJC3T8QLICSCNYWCYV1
+[2024.05.02-10.09.57:404][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/UXHRJC3T8QLICSCNYWCYV19CC061E345FD45D8C89246A580292E44.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/1I/UXHRJC3T8QLICSCNYWCYV1.uasset'
+[2024.05.02-10.09.57:405][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7Z/XFIKIV8W3G5657CPGEY4Q5
+[2024.05.02-10.09.57:405][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/XFIKIV8W3G5657CPGEY4Q5A609475E4C8F8BFBFA27E39E1B86194D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7Z/XFIKIV8W3G5657CPGEY4Q5.uasset'
+[2024.05.02-10.09.57:407][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0Y/KL40KN1XAACCCHFECAWDFQ
+[2024.05.02-10.09.57:407][237]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/KL40KN1XAACCCHFECAWDFQ124940BF4B852FC1E3E5EDAB2C2EFFD0.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0Y/KL40KN1XAACCCHFECAWDFQ.uasset'
+[2024.05.02-10.09.57:420][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.82 sec)
+[2024.05.02-10.09.57:421][237]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1183557502
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1197847503
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1205051504
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1217621505
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1230170506
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BCF001_1319624137
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BBF001_2082553941
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BCF001_1319625139
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BBF001_2082554944
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BBF001_2082554943
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BCF001_1319624138
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1339974515
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1329356513
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1319426512
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1260610511
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1260610510
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1260609509
+[2024.05.02-10.09.57:421][237]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BAF101_1260605508
+[2024.05.02-10.12.13:222][459]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.02-10.12.19:273][459]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2024.05.02-10.12.19:284][459]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NewBlueprint.NewBlueprint
+[2024.05.02-10.12.19:284][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.12.19:284][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.12.19:460][459]LogViewport: Scene viewport resized to 738x506, mode Windowed.
+[2024.05.02-10.12.22:857][664]LogViewport: Scene viewport resized to 736x529, mode Windowed.
+[2024.05.02-10.12.22:906][666]LogViewport: Scene viewport resized to 548x361, mode Windowed.
+[2024.05.02-10.12.22:933][667]LogViewport: Scene viewport resized to 470x291, mode Windowed.
+[2024.05.02-10.12.22:951][668]LogViewport: Scene viewport resized to 467x289, mode Windowed.
+[2024.05.02-10.12.23:231][689]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.05.02-10.12.23:768][749]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.05.02-10.13.20:203][ 39]Cmd: TRANSACTION UNDO
+[2024.05.02-10.13.20:203][ 39]LogEditorTransaction: Undo Move Elements
+[2024.05.02-10.13.23:199][221]Cmd: TRANSACTION UNDO
+[2024.05.02-10.13.23:199][221]LogEditorTransaction: Undo Move Elements
+[2024.05.02-10.13.26:098][462]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-10.13.26:098][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.13.32:901][ 13]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap
+[2024.05.02-10.13.32:902][ 13]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.13.32:902][ 13]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.13.35:623][304]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-10.13.35:624][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.13.39:862][531]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.02-10.13.40:968][531]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2024.05.02-10.13.40:977][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NewBlueprint1.NewBlueprint1
+[2024.05.02-10.13.40:977][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.13.40:977][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.13.41:075][531]LogViewport: Scene viewport resized to 738x506, mode Windowed.
+[2024.05.02-10.13.44:246][728]LogViewport: Scene viewport resized to 736x529, mode Windowed.
+[2024.05.02-10.13.44:303][730]LogViewport: Scene viewport resized to 553x366, mode Windowed.
+[2024.05.02-10.13.44:329][731]LogViewport: Scene viewport resized to 468x289, mode Windowed.
+[2024.05.02-10.13.44:348][732]LogViewport: Scene viewport resized to 467x289, mode Windowed.
+[2024.05.02-10.13.44:711][759]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.05.02-10.13.45:517][848]LogViewport: Scene viewport resized to 1139x890, mode Windowed.
+[2024.05.02-10.13.45:587][850]LogViewport: Scene viewport resized to 599x406, mode Windowed.
+[2024.05.02-10.13.45:605][851]LogViewport: Scene viewport resized to 467x288, mode Windowed.
+[2024.05.02-10.13.45:808][865]LogSlate: Window 'NewBlueprint1' being destroyed
+[2024.05.02-10.13.45:819][865]LogViewport: Scene viewport resized to 469x299, mode Windowed.
+[2024.05.02-10.13.48:331][ 14]LogViewport: Scene viewport resized to 467x322, mode Windowed.
+[2024.05.02-10.13.48:444][ 23]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.05.02-10.13.48:849][ 68]LogSlate: Window 'NewBlueprint1' being destroyed
+[2024.05.02-10.15.19:499][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.02-10.15.19:505][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/17/2WNDAXD8F002VL9DD3TKEG_Auto2
+[2024.05.02-10.15.19:505][906]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/2WNDAXD8F002VL9DD3TKEG_Auto2476613C0419E7786BBD926BBC8ADDF58.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/17/2WNDAXD8F002VL9DD3TKEG_Auto2.uasset'
+[2024.05.02-10.15.19:509][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IF/X7YKTVK0R1G321X5AIVQ0X_Auto2
+[2024.05.02-10.15.19:509][906]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/X7YKTVK0R1G321X5AIVQ0X_Auto2592F4D3B4A1371F79FDBF0896E88B8F4.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IF/X7YKTVK0R1G321X5AIVQ0X_Auto2.uasset'
+[2024.05.02-10.15.19:512][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X8/774RWCU25XTAQS3F9LADRI_Auto2
+[2024.05.02-10.15.19:512][906]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/774RWCU25XTAQS3F9LADRI_Auto24252B1B944CC5AF5283F31B279BC260A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X8/774RWCU25XTAQS3F9LADRI_Auto2.uasset'
+[2024.05.02-10.15.19:514][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ST/69WWQ1ZICPCQVXOM79UDJP_Auto2
+[2024.05.02-10.15.19:514][906]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/69WWQ1ZICPCQVXOM79UDJP_Auto21FB82A2348044B6E90AA22840121D8D7.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ST/69WWQ1ZICPCQVXOM79UDJP_Auto2.uasset'
+[2024.05.02-10.15.19:514][906]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2024.05.02-10.15.19:514][906]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2024.05.02-10.15.19:515][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint] ([2] browsable assets)...
+[2024.05.02-10.15.19:515][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint]
+[2024.05.02-10.15.19:517][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/NewBlueprint_Auto2
+[2024.05.02-10.15.19:517][906]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/NewBlueprint_Auto228B7F48046A4E5C7966E1EB7F107600C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto2.uasset'
+[2024.05.02-10.15.19:517][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint1] ([2] browsable assets)...
+[2024.05.02-10.15.19:517][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint1]
+[2024.05.02-10.15.19:520][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/NewBlueprint1_Auto2
+[2024.05.02-10.15.19:520][906]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/NewBlueprint1_Auto267FEB6F4400FD0F7B02E7DB16CA05C84.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Autosaves/Game/Blueprints/NewBlueprint1_Auto2.uasset'
+[2024.05.02-10.15.19:520][906]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.05.02-10.15.30:772][941]LogDerivedDataCache: C:/Users/pain6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 954 files in 1618 folders with total size 28 MiB.
+[2024.05.02-10.15.36:102][956]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-10.15.36:102][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.15.37:837][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.15.37:889][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.02-10.15.37:903][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.02-10.15.37:916][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.02-10.15.37:918][123]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/17/2WNDAXD8F002VL9DD3TKEG
+[2024.05.02-10.15.37:919][123]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/2WNDAXD8F002VL9DD3TKEG85A6595143930404E209BE82922952BE.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/17/2WNDAXD8F002VL9DD3TKEG.uasset'
+[2024.05.02-10.15.37:920][123]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IF/X7YKTVK0R1G321X5AIVQ0X
+[2024.05.02-10.15.37:921][123]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/X7YKTVK0R1G321X5AIVQ0X27FE9C1E409150BB65943A95E8C23866.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IF/X7YKTVK0R1G321X5AIVQ0X.uasset'
+[2024.05.02-10.15.37:922][123]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X8/774RWCU25XTAQS3F9LADRI
+[2024.05.02-10.15.37:922][123]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/774RWCU25XTAQS3F9LADRIB8F7B0554680A1D51D0A75AE5183BE83.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X8/774RWCU25XTAQS3F9LADRI.uasset'
+[2024.05.02-10.15.37:924][123]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ST/69WWQ1ZICPCQVXOM79UDJP
+[2024.05.02-10.15.37:924][123]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/69WWQ1ZICPCQVXOM79UDJPE37F72F946C01D023B3780B1309EE474.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ST/69WWQ1ZICPCQVXOM79UDJP.uasset'
+[2024.05.02-10.15.37:939][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.92 sec)
+[2024.05.02-10.15.37:942][123]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-10.15.37:942][123]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497728080
+[2024.05.02-10.15.37:942][123]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497732082
+[2024.05.02-10.15.37:942][123]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497732083
+[2024.05.02-10.15.37:942][123]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1497733084
