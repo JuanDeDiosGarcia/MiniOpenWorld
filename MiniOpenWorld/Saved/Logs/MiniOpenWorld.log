@@ -1192,3 +1192,1273 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.02-09.14.02:201][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
 [2024.05.02-09.14.02:204][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2024.05.02-09.14.02:215][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 184 ms)
+[2024.05.02-09.14.52:660][370]LogViewport: Scene viewport resized to 1310x626, mode Windowed.
+[2024.05.02-09.14.52:669][371]LogViewport: Scene viewport resized to 1310x622, mode Windowed.
+[2024.05.02-09.14.52:699][372]LogViewport: Scene viewport resized to 1310x607, mode Windowed.
+[2024.05.02-09.14.52:718][373]LogViewport: Scene viewport resized to 1310x597, mode Windowed.
+[2024.05.02-09.14.52:737][374]LogViewport: Scene viewport resized to 1310x581, mode Windowed.
+[2024.05.02-09.14.52:752][375]LogViewport: Scene viewport resized to 1310x569, mode Windowed.
+[2024.05.02-09.14.52:768][376]LogViewport: Scene viewport resized to 1310x558, mode Windowed.
+[2024.05.02-09.14.52:785][377]LogViewport: Scene viewport resized to 1310x545, mode Windowed.
+[2024.05.02-09.14.52:806][378]LogViewport: Scene viewport resized to 1310x528, mode Windowed.
+[2024.05.02-09.14.52:819][379]LogViewport: Scene viewport resized to 1310x519, mode Windowed.
+[2024.05.02-09.14.52:835][380]LogViewport: Scene viewport resized to 1310x509, mode Windowed.
+[2024.05.02-09.14.52:852][381]LogViewport: Scene viewport resized to 1310x498, mode Windowed.
+[2024.05.02-09.14.52:870][382]LogViewport: Scene viewport resized to 1310x490, mode Windowed.
+[2024.05.02-09.14.52:885][383]LogViewport: Scene viewport resized to 1310x485, mode Windowed.
+[2024.05.02-09.14.52:900][384]LogViewport: Scene viewport resized to 1310x480, mode Windowed.
+[2024.05.02-09.14.52:915][385]LogViewport: Scene viewport resized to 1310x477, mode Windowed.
+[2024.05.02-09.14.52:932][386]LogViewport: Scene viewport resized to 1310x475, mode Windowed.
+[2024.05.02-09.14.52:947][387]LogViewport: Scene viewport resized to 1310x474, mode Windowed.
+[2024.05.02-09.14.52:963][388]LogViewport: Scene viewport resized to 1310x472, mode Windowed.
+[2024.05.02-09.14.52:994][391]LogViewport: Scene viewport resized to 1310x471, mode Windowed.
+[2024.05.02-09.14.53:085][402]LogViewport: Scene viewport resized to 1310x469, mode Windowed.
+[2024.05.02-09.14.53:136][408]LogViewport: Scene viewport resized to 1310x468, mode Windowed.
+[2024.05.02-09.14.53:211][417]LogViewport: Scene viewport resized to 1310x466, mode Windowed.
+[2024.05.02-09.14.53:229][419]LogViewport: Scene viewport resized to 1310x465, mode Windowed.
+[2024.05.02-09.14.53:253][421]LogViewport: Scene viewport resized to 1310x464, mode Windowed.
+[2024.05.02-09.14.53:262][422]LogViewport: Scene viewport resized to 1310x462, mode Windowed.
+[2024.05.02-09.14.53:293][425]LogViewport: Scene viewport resized to 1310x461, mode Windowed.
+[2024.05.02-09.14.53:319][428]LogViewport: Scene viewport resized to 1310x460, mode Windowed.
+[2024.05.02-09.14.53:330][429]LogViewport: Scene viewport resized to 1310x459, mode Windowed.
+[2024.05.02-09.14.56:377][766]LogViewport: Scene viewport resized to 1310x458, mode Windowed.
+[2024.05.02-09.14.56:386][767]LogViewport: Scene viewport resized to 1310x460, mode Windowed.
+[2024.05.02-09.14.56:409][768]LogViewport: Scene viewport resized to 1310x471, mode Windowed.
+[2024.05.02-09.14.56:421][769]LogViewport: Scene viewport resized to 1310x478, mode Windowed.
+[2024.05.02-09.14.56:436][770]LogViewport: Scene viewport resized to 1310x486, mode Windowed.
+[2024.05.02-09.14.56:450][771]LogViewport: Scene viewport resized to 1310x496, mode Windowed.
+[2024.05.02-09.14.56:467][772]LogViewport: Scene viewport resized to 1310x505, mode Windowed.
+[2024.05.02-09.14.56:483][773]LogViewport: Scene viewport resized to 1310x511, mode Windowed.
+[2024.05.02-09.14.56:497][774]LogViewport: Scene viewport resized to 1310x518, mode Windowed.
+[2024.05.02-09.14.56:512][775]LogViewport: Scene viewport resized to 1310x524, mode Windowed.
+[2024.05.02-09.14.56:532][776]LogViewport: Scene viewport resized to 1310x529, mode Windowed.
+[2024.05.02-09.14.56:547][777]LogViewport: Scene viewport resized to 1310x533, mode Windowed.
+[2024.05.02-09.14.56:561][778]LogViewport: Scene viewport resized to 1310x538, mode Windowed.
+[2024.05.02-09.14.56:576][779]LogViewport: Scene viewport resized to 1310x541, mode Windowed.
+[2024.05.02-09.14.56:592][780]LogViewport: Scene viewport resized to 1310x544, mode Windowed.
+[2024.05.02-09.14.56:606][781]LogViewport: Scene viewport resized to 1310x549, mode Windowed.
+[2024.05.02-09.14.56:619][782]LogViewport: Scene viewport resized to 1310x552, mode Windowed.
+[2024.05.02-09.14.56:636][783]LogViewport: Scene viewport resized to 1310x554, mode Windowed.
+[2024.05.02-09.14.56:651][784]LogViewport: Scene viewport resized to 1310x557, mode Windowed.
+[2024.05.02-09.14.56:666][785]LogViewport: Scene viewport resized to 1310x560, mode Windowed.
+[2024.05.02-09.14.56:680][786]LogViewport: Scene viewport resized to 1310x561, mode Windowed.
+[2024.05.02-09.14.56:693][787]LogViewport: Scene viewport resized to 1310x563, mode Windowed.
+[2024.05.02-09.14.56:709][788]LogViewport: Scene viewport resized to 1310x565, mode Windowed.
+[2024.05.02-09.14.56:723][789]LogViewport: Scene viewport resized to 1310x567, mode Windowed.
+[2024.05.02-09.14.56:738][790]LogViewport: Scene viewport resized to 1310x568, mode Windowed.
+[2024.05.02-09.14.56:753][791]LogViewport: Scene viewport resized to 1310x572, mode Windowed.
+[2024.05.02-09.14.56:765][792]LogViewport: Scene viewport resized to 1310x574, mode Windowed.
+[2024.05.02-09.14.56:782][793]LogViewport: Scene viewport resized to 1310x576, mode Windowed.
+[2024.05.02-09.14.56:797][794]LogViewport: Scene viewport resized to 1310x579, mode Windowed.
+[2024.05.02-09.14.56:811][795]LogViewport: Scene viewport resized to 1310x583, mode Windowed.
+[2024.05.02-09.14.56:828][796]LogViewport: Scene viewport resized to 1310x585, mode Windowed.
+[2024.05.02-09.14.56:842][797]LogViewport: Scene viewport resized to 1310x588, mode Windowed.
+[2024.05.02-09.14.56:857][798]LogViewport: Scene viewport resized to 1310x591, mode Windowed.
+[2024.05.02-09.14.56:872][799]LogViewport: Scene viewport resized to 1310x594, mode Windowed.
+[2024.05.02-09.14.56:887][800]LogViewport: Scene viewport resized to 1310x595, mode Windowed.
+[2024.05.02-09.14.56:901][801]LogViewport: Scene viewport resized to 1310x598, mode Windowed.
+[2024.05.02-09.14.56:914][802]LogViewport: Scene viewport resized to 1310x600, mode Windowed.
+[2024.05.02-09.14.56:929][803]LogViewport: Scene viewport resized to 1310x602, mode Windowed.
+[2024.05.02-09.14.56:943][804]LogViewport: Scene viewport resized to 1310x605, mode Windowed.
+[2024.05.02-09.14.56:958][805]LogViewport: Scene viewport resized to 1310x609, mode Windowed.
+[2024.05.02-09.14.56:973][806]LogViewport: Scene viewport resized to 1310x611, mode Windowed.
+[2024.05.02-09.14.56:990][807]LogViewport: Scene viewport resized to 1310x614, mode Windowed.
+[2024.05.02-09.14.57:006][808]LogViewport: Scene viewport resized to 1310x617, mode Windowed.
+[2024.05.02-09.14.57:021][809]LogViewport: Scene viewport resized to 1310x619, mode Windowed.
+[2024.05.02-09.15.12:317][198]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.15.12:320][198]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.15.12:321][198]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2024.05.02-09.15.12:322][198]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2024.05.02-09.15.13:048][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.15.13:048][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.02-09.15.13:053][282]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1972285863
+[2024.05.02-09.15.13:053][282]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1972285863
+[2024.05.02-09.15.15:580][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2024.05.02-09.15.15:580][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2024.05.02-09.15.15:580][540]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.05.02-09.15.15:580][540]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.05.02-09.15.17:470][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2024.05.02-09.15.17:470][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2024.05.02-09.15.17:474][762]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1976706864
+[2024.05.02-09.15.17:475][762]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1976706864
+[2024.05.02-09.15.21:519][239]Cmd: TRANSACTION UNDO
+[2024.05.02-09.15.21:519][239]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.15.29:778][ 10]LogDerivedDataCache: C:/Users/pain6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 931 files in 1591 folders with total size 28 MiB.
+[2024.05.02-09.15.33:326][435]Cmd: EDIT COPY
+[2024.05.02-09.15.33:507][456]Cmd: EDIT PASTE
+[2024.05.02-09.15.43:549][639]Cmd: TRANSACTION UNDO
+[2024.05.02-09.15.43:550][639]LogEditorTransaction: Undo Scale Elements
+[2024.05.02-09.15.44:677][705]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1992744865.StaticMeshComponent0, from: Addition to navoctree)
+[2024.05.02-09.15.44:678][705]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1972285863.StaticMeshComponent0, from: Addition to navoctree)
+[2024.05.02-09.15.44:678][705]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1976706864.StaticMeshComponent0, from: Addition to navoctree)
+[2024.05.02-09.15.44:967][726]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1992744865.StaticMeshComponent0, from: Remove from navoctree)
+[2024.05.02-09.15.44:967][726]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1972285863.StaticMeshComponent0, from: Remove from navoctree)
+[2024.05.02-09.15.44:967][726]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1976706864.StaticMeshComponent0, from: Remove from navoctree)
+[2024.05.02-09.15.53:236][515]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.02-09.16.07:041][575]EditorErrors: New page: Actor attachment
+[2024.05.02-09.16.10:934][909]Cmd: TRANSACTION UNDO
+[2024.05.02-09.16.10:934][909]LogEditorTransaction: Undo Attach actors
+[2024.05.02-09.16.18:604][420]EditorErrors: New page: Actor attachment
+[2024.05.02-09.16.42:155][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.16.42:195][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-09.16.42:198][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.02-09.16.42:201][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.02-09.16.42:202][564]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/8HVMXZTGGVOPFBEJH7ANNE
+[2024.05.02-09.16.42:202][564]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/8HVMXZTGGVOPFBEJH7ANNE19AE45A64CC73456C6D9BEACFDFF1124.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/8HVMXZTGGVOPFBEJH7ANNE.uasset'
+[2024.05.02-09.16.42:208][564]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HX/8HQNQSYOIQN08E7YO67QYL
+[2024.05.02-09.16.42:208][564]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/8HQNQSYOIQN08E7YO67QYLE7517C0042EBB7F58FE6F2B483C4824A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HX/8HQNQSYOIQN08E7YO67QYL.uasset'
+[2024.05.02-09.16.42:209][564]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5R/02Y1CFCCP7V4XR1QLJPL3C
+[2024.05.02-09.16.42:209][564]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/02Y1CFCCP7V4XR1QLJPL3C8CC7CF2C45444F5F7764B9B593D4ACA5.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5R/02Y1CFCCP7V4XR1QLJPL3C.uasset'
+[2024.05.02-09.16.42:211][564]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PI/I7KILDPNV2WWKEZV7L6ZEL
+[2024.05.02-09.16.42:211][564]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/I7KILDPNV2WWKEZV7L6ZEL87BB4D8A4E1677760D69F5996842EDDE.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PI/I7KILDPNV2WWKEZV7L6ZEL.uasset'
+[2024.05.02-09.16.42:223][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 251 ms)
+[2024.05.02-09.16.42:224][564]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.16.42:224][564]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1972285863
+[2024.05.02-09.16.42:224][564]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1976706864
+[2024.05.02-09.16.42:224][564]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1992744865
+[2024.05.02-09.16.42:224][564]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B7F101_2053856866
+[2024.05.02-09.16.50:126][411]LogViewport: Scene viewport resized to 1310x617, mode Windowed.
+[2024.05.02-09.16.50:139][412]LogViewport: Scene viewport resized to 1310x616, mode Windowed.
+[2024.05.02-09.16.50:161][413]LogViewport: Scene viewport resized to 1310x608, mode Windowed.
+[2024.05.02-09.16.50:176][414]LogViewport: Scene viewport resized to 1310x600, mode Windowed.
+[2024.05.02-09.16.50:194][415]LogViewport: Scene viewport resized to 1310x592, mode Windowed.
+[2024.05.02-09.16.50:209][416]LogViewport: Scene viewport resized to 1310x585, mode Windowed.
+[2024.05.02-09.16.50:224][417]LogViewport: Scene viewport resized to 1310x576, mode Windowed.
+[2024.05.02-09.16.50:239][418]LogViewport: Scene viewport resized to 1310x568, mode Windowed.
+[2024.05.02-09.16.50:255][419]LogViewport: Scene viewport resized to 1310x561, mode Windowed.
+[2024.05.02-09.16.50:270][420]LogViewport: Scene viewport resized to 1310x554, mode Windowed.
+[2024.05.02-09.16.50:286][421]LogViewport: Scene viewport resized to 1310x545, mode Windowed.
+[2024.05.02-09.16.50:301][422]LogViewport: Scene viewport resized to 1310x538, mode Windowed.
+[2024.05.02-09.16.50:317][423]LogViewport: Scene viewport resized to 1310x530, mode Windowed.
+[2024.05.02-09.16.50:338][424]LogViewport: Scene viewport resized to 1310x520, mode Windowed.
+[2024.05.02-09.16.50:351][425]LogViewport: Scene viewport resized to 1310x516, mode Windowed.
+[2024.05.02-09.16.50:367][426]LogViewport: Scene viewport resized to 1310x512, mode Windowed.
+[2024.05.02-09.16.50:381][427]LogViewport: Scene viewport resized to 1310x508, mode Windowed.
+[2024.05.02-09.16.50:398][428]LogViewport: Scene viewport resized to 1310x505, mode Windowed.
+[2024.05.02-09.16.50:422][430]LogViewport: Scene viewport resized to 1310x504, mode Windowed.
+[2024.05.02-09.16.50:431][431]LogViewport: Scene viewport resized to 1310x502, mode Windowed.
+[2024.05.02-09.16.50:684][460]LogViewport: Scene viewport resized to 1310x501, mode Windowed.
+[2024.05.02-09.16.50:694][461]LogViewport: Scene viewport resized to 1310x499, mode Windowed.
+[2024.05.02-09.16.50:724][462]LogViewport: Scene viewport resized to 1310x495, mode Windowed.
+[2024.05.02-09.16.50:742][463]LogViewport: Scene viewport resized to 1310x494, mode Windowed.
+[2024.05.02-09.16.50:755][464]LogViewport: Scene viewport resized to 1310x491, mode Windowed.
+[2024.05.02-09.16.50:770][465]LogViewport: Scene viewport resized to 1310x489, mode Windowed.
+[2024.05.02-09.16.50:786][466]LogViewport: Scene viewport resized to 1310x486, mode Windowed.
+[2024.05.02-09.16.50:799][467]LogViewport: Scene viewport resized to 1310x483, mode Windowed.
+[2024.05.02-09.16.50:814][468]LogViewport: Scene viewport resized to 1310x480, mode Windowed.
+[2024.05.02-09.16.50:830][469]LogViewport: Scene viewport resized to 1310x477, mode Windowed.
+[2024.05.02-09.16.50:847][470]LogViewport: Scene viewport resized to 1310x473, mode Windowed.
+[2024.05.02-09.16.50:861][471]LogViewport: Scene viewport resized to 1310x469, mode Windowed.
+[2024.05.02-09.16.50:876][472]LogViewport: Scene viewport resized to 1310x466, mode Windowed.
+[2024.05.02-09.16.50:891][473]LogViewport: Scene viewport resized to 1310x461, mode Windowed.
+[2024.05.02-09.16.50:905][474]LogViewport: Scene viewport resized to 1310x456, mode Windowed.
+[2024.05.02-09.16.50:920][475]LogViewport: Scene viewport resized to 1310x452, mode Windowed.
+[2024.05.02-09.16.50:935][476]LogViewport: Scene viewport resized to 1310x446, mode Windowed.
+[2024.05.02-09.16.50:952][477]LogViewport: Scene viewport resized to 1310x440, mode Windowed.
+[2024.05.02-09.16.50:965][478]LogViewport: Scene viewport resized to 1310x435, mode Windowed.
+[2024.05.02-09.16.50:979][479]LogViewport: Scene viewport resized to 1310x429, mode Windowed.
+[2024.05.02-09.16.50:995][480]LogViewport: Scene viewport resized to 1310x423, mode Windowed.
+[2024.05.02-09.16.51:009][481]LogViewport: Scene viewport resized to 1310x419, mode Windowed.
+[2024.05.02-09.16.51:024][482]LogViewport: Scene viewport resized to 1310x411, mode Windowed.
+[2024.05.02-09.16.51:038][483]LogViewport: Scene viewport resized to 1310x404, mode Windowed.
+[2024.05.02-09.16.51:054][484]LogViewport: Scene viewport resized to 1310x396, mode Windowed.
+[2024.05.02-09.16.51:069][485]LogViewport: Scene viewport resized to 1310x388, mode Windowed.
+[2024.05.02-09.16.51:085][486]LogViewport: Scene viewport resized to 1310x378, mode Windowed.
+[2024.05.02-09.16.51:100][487]LogViewport: Scene viewport resized to 1310x371, mode Windowed.
+[2024.05.02-09.16.51:118][488]LogViewport: Scene viewport resized to 1310x363, mode Windowed.
+[2024.05.02-09.16.51:131][489]LogViewport: Scene viewport resized to 1310x356, mode Windowed.
+[2024.05.02-09.16.51:147][490]LogViewport: Scene viewport resized to 1310x351, mode Windowed.
+[2024.05.02-09.16.51:161][491]LogViewport: Scene viewport resized to 1310x349, mode Windowed.
+[2024.05.02-09.16.51:177][492]LogViewport: Scene viewport resized to 1310x345, mode Windowed.
+[2024.05.02-09.16.51:191][493]LogViewport: Scene viewport resized to 1310x343, mode Windowed.
+[2024.05.02-09.16.51:246][499]LogViewport: Scene viewport resized to 1310x342, mode Windowed.
+[2024.05.02-09.16.51:310][506]LogViewport: Scene viewport resized to 1310x340, mode Windowed.
+[2024.05.02-09.16.51:353][511]LogViewport: Scene viewport resized to 1310x339, mode Windowed.
+[2024.05.02-09.16.51:366][512]LogViewport: Scene viewport resized to 1310x337, mode Windowed.
+[2024.05.02-09.16.51:386][513]LogViewport: Scene viewport resized to 1310x336, mode Windowed.
+[2024.05.02-09.16.51:407][515]LogViewport: Scene viewport resized to 1310x334, mode Windowed.
+[2024.05.02-09.16.51:417][516]LogViewport: Scene viewport resized to 1310x333, mode Windowed.
+[2024.05.02-09.16.51:457][520]LogViewport: Scene viewport resized to 1310x332, mode Windowed.
+[2024.05.02-09.16.51:475][522]LogViewport: Scene viewport resized to 1310x331, mode Windowed.
+[2024.05.02-09.16.51:491][523]LogViewport: Scene viewport resized to 1310x329, mode Windowed.
+[2024.05.02-09.16.51:520][526]LogViewport: Scene viewport resized to 1310x328, mode Windowed.
+[2024.05.02-09.16.51:530][527]LogViewport: Scene viewport resized to 1310x326, mode Windowed.
+[2024.05.02-09.16.51:551][528]LogViewport: Scene viewport resized to 1310x325, mode Windowed.
+[2024.05.02-09.16.51:573][530]LogViewport: Scene viewport resized to 1310x323, mode Windowed.
+[2024.05.02-09.16.51:590][532]LogViewport: Scene viewport resized to 1310x322, mode Windowed.
+[2024.05.02-09.16.51:892][568]LogViewport: Scene viewport resized to 1310x323, mode Windowed.
+[2024.05.02-09.16.51:904][569]LogViewport: Scene viewport resized to 1310x324, mode Windowed.
+[2024.05.02-09.16.51:943][570]LogViewport: Scene viewport resized to 1310x336, mode Windowed.
+[2024.05.02-09.16.51:956][571]LogViewport: Scene viewport resized to 1310x340, mode Windowed.
+[2024.05.02-09.16.51:973][572]LogViewport: Scene viewport resized to 1310x343, mode Windowed.
+[2024.05.02-09.16.51:986][573]LogViewport: Scene viewport resized to 1310x345, mode Windowed.
+[2024.05.02-09.16.52:001][574]LogViewport: Scene viewport resized to 1310x348, mode Windowed.
+[2024.05.02-09.16.52:016][575]LogViewport: Scene viewport resized to 1310x349, mode Windowed.
+[2024.05.02-09.16.52:031][576]LogViewport: Scene viewport resized to 1310x350, mode Windowed.
+[2024.05.02-09.16.52:045][577]LogViewport: Scene viewport resized to 1310x353, mode Windowed.
+[2024.05.02-09.16.52:058][578]LogViewport: Scene viewport resized to 1310x356, mode Windowed.
+[2024.05.02-09.16.52:074][579]LogViewport: Scene viewport resized to 1310x358, mode Windowed.
+[2024.05.02-09.16.52:088][580]LogViewport: Scene viewport resized to 1310x362, mode Windowed.
+[2024.05.02-09.16.52:104][581]LogViewport: Scene viewport resized to 1310x364, mode Windowed.
+[2024.05.02-09.16.52:118][582]LogViewport: Scene viewport resized to 1310x365, mode Windowed.
+[2024.05.02-09.16.52:134][583]LogViewport: Scene viewport resized to 1310x367, mode Windowed.
+[2024.05.02-09.16.52:148][584]LogViewport: Scene viewport resized to 1310x369, mode Windowed.
+[2024.05.02-09.16.52:162][585]LogViewport: Scene viewport resized to 1310x370, mode Windowed.
+[2024.05.02-09.16.52:176][586]LogViewport: Scene viewport resized to 1310x371, mode Windowed.
+[2024.05.02-09.16.52:190][587]LogViewport: Scene viewport resized to 1310x374, mode Windowed.
+[2024.05.02-09.16.52:205][588]LogViewport: Scene viewport resized to 1310x376, mode Windowed.
+[2024.05.02-09.16.52:230][590]LogViewport: Scene viewport resized to 1310x378, mode Windowed.
+[2024.05.02-09.16.52:288][597]LogViewport: Scene viewport resized to 1310x379, mode Windowed.
+[2024.05.02-09.16.52:382][608]LogViewport: Scene viewport resized to 1310x377, mode Windowed.
+[2024.05.02-09.16.52:391][609]LogViewport: Scene viewport resized to 1310x375, mode Windowed.
+[2024.05.02-09.16.52:413][610]LogViewport: Scene viewport resized to 1310x369, mode Windowed.
+[2024.05.02-09.16.52:428][611]LogViewport: Scene viewport resized to 1310x361, mode Windowed.
+[2024.05.02-09.16.52:444][612]LogViewport: Scene viewport resized to 1310x356, mode Windowed.
+[2024.05.02-09.16.52:459][613]LogViewport: Scene viewport resized to 1310x352, mode Windowed.
+[2024.05.02-09.16.52:474][614]LogViewport: Scene viewport resized to 1310x348, mode Windowed.
+[2024.05.02-09.16.52:490][615]LogViewport: Scene viewport resized to 1310x347, mode Windowed.
+[2024.05.02-09.16.52:504][616]LogViewport: Scene viewport resized to 1310x346, mode Windowed.
+[2024.05.02-09.16.56:064][982]Cmd: TRANSACTION UNDO
+[2024.05.02-09.16.56:064][982]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.18.01:631][451]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks
+[2024.05.02-09.18.01:631][451]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks
+[2024.05.02-09.18.01:636][451]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks as actor: Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B7F101_2140867867
+[2024.05.02-09.18.01:637][451]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks as actor: Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B7F101_2140867867
+[2024.05.02-09.18.02:344][527]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks
+[2024.05.02-09.18.02:344][527]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks
+[2024.05.02-09.18.02:349][527]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks as actor: Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B7F101_2141580868
+[2024.05.02-09.18.02:349][527]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks as actor: Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B7F101_2141580868
+[2024.05.02-09.18.04:319][738]Cmd: DELETE
+[2024.05.02-09.18.04:319][738]Cmd: ACTOR DELETE
+[2024.05.02-09.18.04:322][738]LogEditorActor: Deleted Actor: Emitter
+[2024.05.02-09.18.04:325][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.05.02-09.18.04:327][738]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.05.02-09.18.19:845][461]EditorErrors: New page: Actor attachment
+[2024.05.02-09.18.28:378][342]LogViewport: Scene viewport resized to 1310x347, mode Windowed.
+[2024.05.02-09.18.28:392][343]LogViewport: Scene viewport resized to 1310x350, mode Windowed.
+[2024.05.02-09.18.28:423][344]LogViewport: Scene viewport resized to 1310x364, mode Windowed.
+[2024.05.02-09.18.28:438][345]LogViewport: Scene viewport resized to 1310x373, mode Windowed.
+[2024.05.02-09.18.28:457][346]LogViewport: Scene viewport resized to 1310x385, mode Windowed.
+[2024.05.02-09.18.28:473][347]LogViewport: Scene viewport resized to 1310x400, mode Windowed.
+[2024.05.02-09.18.28:494][348]LogViewport: Scene viewport resized to 1310x417, mode Windowed.
+[2024.05.02-09.18.28:508][349]LogViewport: Scene viewport resized to 1310x432, mode Windowed.
+[2024.05.02-09.18.28:526][350]LogViewport: Scene viewport resized to 1310x450, mode Windowed.
+[2024.05.02-09.18.28:544][351]LogViewport: Scene viewport resized to 1310x470, mode Windowed.
+[2024.05.02-09.18.28:561][352]LogViewport: Scene viewport resized to 1310x489, mode Windowed.
+[2024.05.02-09.18.28:578][353]LogViewport: Scene viewport resized to 1310x508, mode Windowed.
+[2024.05.02-09.18.28:597][354]LogViewport: Scene viewport resized to 1310x530, mode Windowed.
+[2024.05.02-09.18.28:614][355]LogViewport: Scene viewport resized to 1310x548, mode Windowed.
+[2024.05.02-09.18.28:632][356]LogViewport: Scene viewport resized to 1310x568, mode Windowed.
+[2024.05.02-09.18.28:651][357]LogViewport: Scene viewport resized to 1310x590, mode Windowed.
+[2024.05.02-09.18.28:665][358]LogViewport: Scene viewport resized to 1310x605, mode Windowed.
+[2024.05.02-09.18.28:683][359]LogViewport: Scene viewport resized to 1310x624, mode Windowed.
+[2024.05.02-09.18.28:700][360]LogViewport: Scene viewport resized to 1310x639, mode Windowed.
+[2024.05.02-09.18.28:717][361]LogViewport: Scene viewport resized to 1310x655, mode Windowed.
+[2024.05.02-09.18.28:741][362]LogViewport: Scene viewport resized to 1310x674, mode Windowed.
+[2024.05.02-09.18.28:767][363]LogViewport: Scene viewport resized to 1310x694, mode Windowed.
+[2024.05.02-09.18.28:795][364]LogViewport: Scene viewport resized to 1310x708, mode Windowed.
+[2024.05.02-09.18.28:822][365]LogViewport: Scene viewport resized to 1310x716, mode Windowed.
+[2024.05.02-09.18.28:850][366]LogViewport: Scene viewport resized to 1310x721, mode Windowed.
+[2024.05.02-09.18.28:875][367]LogViewport: Scene viewport resized to 1310x722, mode Windowed.
+[2024.05.02-09.18.28:914][370]LogViewport: Scene viewport resized to 1310x724, mode Windowed.
+[2024.05.02-09.18.28:933][372]LogViewport: Scene viewport resized to 1310x725, mode Windowed.
+[2024.05.02-09.18.28:966][375]LogViewport: Scene viewport resized to 1310x726, mode Windowed.
+[2024.05.02-09.18.28:995][378]LogViewport: Scene viewport resized to 1310x728, mode Windowed.
+[2024.05.02-09.19.14:438][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.19.14:444][524]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-09.19.14:444][524]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-09.19.14:452][524]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8 ms
+[2024.05.02-09.19.14:453][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.19.14:455][524]PIE: New page: PIE session: ThirdPersonMap (2 may. 2024 13:19:14)
+[2024.05.02-09.19.14:455][524]LogPlayLevel: Display: Creating online subsystem for client :Context_3
+[2024.05.02-09.19.14:458][524]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.05.02-09.19.14:473][525]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-09.19.14:593][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120154s)
+[2024.05.02-09.19.14:593][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.120204s)
+[2024.05.02-09.19.14:596][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-09.19.14:598][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-09.19.14:598][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.19.14:598][525]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-09.19.14:599][525]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-09.19.14:599][525]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-09.19.14:599][525]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-09.19.14:599][525]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-09.19.14:606][525]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-09.19.14:606][525]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 252 ms)
+[2024.05.02-09.19.14:606][525]LogPlayLevel: PIE: World Init took: (0.008102s)
+[2024.05.02-09.19.14:606][525]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.02-09.19.14:606][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.19.14:606][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.19.14:606][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.19.14:606][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.19.14:606][525]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.19.14:606][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-09.19.14:606][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.19.14:606][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.19.14:606][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.19.14:606][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.19.14:606][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.19.14:607][525]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.19.14:626][525]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2024.05.02-09.19.14:626][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.19.14:627][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.19.14:627][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.19.14:627][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.02-09.19.14:627][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2024.05.02-09.19.14:628][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.02-09.19.14:628][525]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.02-09.19.14:628][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.02-09.19.14:628][525]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.05.02-09.19.14:628][525]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.02-09.19.14:631][525]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-09.19.14:646][525]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-11.19.14
+[2024.05.02-09.19.14:647][525]LogWorld: Bringing up level for play took: 0.015027
+[2024.05.02-09.19.14:667][525]PIE: Server logged in
+[2024.05.02-09.19.14:667][525]PIE: Play in editor total start time 0,223 seconds.
+[2024.05.02-09.19.33:221][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.19.33:221][736]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-09.19.33:221][736]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.19.33:223][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.19.33:223][736]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-09.19.33:226][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.19.33:227][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.19.33:230][736]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-09.19.33:232][736]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.02-09.19.33:232][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.02-09.19.33:233][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.02-09.19.33:235][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.19.33:242][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.02-09.19.33:284][737]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.05.02-09.19.40:114][501]Cmd: EDIT COPY
+[2024.05.02-09.19.40:314][525]Cmd: EDIT PASTE
+[2024.05.02-09.19.48:451][411]Cmd: TRANSACTION UNDO
+[2024.05.02-09.19.48:451][411]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.19.49:827][497]Cmd: TRANSACTION UNDO
+[2024.05.02-09.19.49:827][497]LogEditorTransaction: Undo Paste
+[2024.05.02-09.20.03:900][743]Cmd: EDIT COPY
+[2024.05.02-09.20.04:131][770]Cmd: EDIT PASTE
+[2024.05.02-09.20.48:415][733]Cmd: EDIT COPY
+[2024.05.02-09.20.48:656][751]Cmd: EDIT PASTE
+[2024.05.02-09.21.31:190][638]Cmd: EDIT COPY
+[2024.05.02-09.21.31:402][656]Cmd: EDIT PASTE
+[2024.05.02-09.21.38:526][485]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.21.41:818][867]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.22.15:575][747]Cmd: EDIT COPY
+[2024.05.02-09.22.15:843][778]Cmd: EDIT PASTE
+[2024.05.02-09.22.41:763][752]Cmd: EDIT COPY
+[2024.05.02-09.22.41:962][767]Cmd: EDIT PASTE
+[2024.05.02-09.22.44:040][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.23.53:532][912]Cmd: EDIT COPY
+[2024.05.02-09.23.53:718][934]Cmd: EDIT PASTE
+[2024.05.02-09.25.12:034][839]Cmd: EDIT COPY
+[2024.05.02-09.25.12:232][853]Cmd: EDIT PASTE
+[2024.05.02-09.25.14:543][ 97]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.25.59:249][219]Cmd: EDIT COPY
+[2024.05.02-09.25.59:432][236]Cmd: EDIT PASTE
+[2024.05.02-09.26.02:160][544]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.26.17:223][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.26.17:266][279]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1165815048 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MM/ECMPEGP56WIW2HFK7ZKLYS.PackageMetaData in its package
+[2024.05.02-09.26.17:266][279]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1165814047 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/A9/KJIQE950L30P8UB3VD866R.PackageMetaData in its package
+[2024.05.02-09.26.17:266][279]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1165814046 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5X/A3JX41ZG5VOKFOYZ2OA0JW.PackageMetaData in its package
+[2024.05.02-09.26.17:266][279]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1165809045 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/34/G1Y1ZZ8EJ0CNP63C9Q2Y7F.PackageMetaData in its package
+[2024.05.02-09.26.17:268][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.02-09.26.17:273][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.02-09.26.17:276][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.26.17:278][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/8HVMXZTGGVOPFBEJH7ANNE
+[2024.05.02-09.26.17:279][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/8HVMXZTGGVOPFBEJH7ANNE43D9DC1A4ED1A1C10124E48C4BD634C3.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/8HVMXZTGGVOPFBEJH7ANNE.uasset'
+[2024.05.02-09.26.17:280][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5R/02Y1CFCCP7V4XR1QLJPL3C
+[2024.05.02-09.26.17:280][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/02Y1CFCCP7V4XR1QLJPL3C4AEC97864BD0F2B01AD188897CC47F03.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5R/02Y1CFCCP7V4XR1QLJPL3C.uasset'
+[2024.05.02-09.26.17:281][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HX/8HQNQSYOIQN08E7YO67QYL
+[2024.05.02-09.26.17:282][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/8HQNQSYOIQN08E7YO67QYLFDF7A55B4749A23F709EF2922EB8BE20.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HX/8HQNQSYOIQN08E7YO67QYL.uasset'
+[2024.05.02-09.26.17:283][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JA/06H4NMSISRENO9PZZ6ECYV
+[2024.05.02-09.26.17:283][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/06H4NMSISRENO9PZZ6ECYV83410903495C07E7661F208E5A1F5BB3.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JA/06H4NMSISRENO9PZZ6ECYV.uasset'
+[2024.05.02-09.26.17:285][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GA/7IIT9KYPITJ2X1O1JPZ9KI
+[2024.05.02-09.26.17:285][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/7IIT9KYPITJ2X1O1JPZ9KI1E4899874811FAD7955DB5BE96531871.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GA/7IIT9KYPITJ2X1O1JPZ9KI.uasset'
+[2024.05.02-09.26.17:286][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/2T/RJJPOGEBD9WIPWTJBK0U82
+[2024.05.02-09.26.17:286][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/RJJPOGEBD9WIPWTJBK0U82748E4154413B1259E2F3FDB77922207A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/2T/RJJPOGEBD9WIPWTJBK0U82.uasset'
+[2024.05.02-09.26.17:288][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/21/GN179QV6FS1SCQJG4OXHXD
+[2024.05.02-09.26.17:288][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GN179QV6FS1SCQJG4OXHXD154CF25040FDC3A27A98D5AA71822EE7.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/21/GN179QV6FS1SCQJG4OXHXD.uasset'
+[2024.05.02-09.26.17:289][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FM/3TDXF3ZU3M8I15BXU9GU4T
+[2024.05.02-09.26.17:289][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/3TDXF3ZU3M8I15BXU9GU4TDC8CE74B475AF5EDF2131BBCA303E8FC.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FM/3TDXF3ZU3M8I15BXU9GU4T.uasset'
+[2024.05.02-09.26.17:290][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2Q/JXL59P0UX8VD96XLYWDUQ3
+[2024.05.02-09.26.17:291][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/JXL59P0UX8VD96XLYWDUQ3D1EA2C8B4D8FAE0F3E424688F5007E7A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2Q/JXL59P0UX8VD96XLYWDUQ3.uasset'
+[2024.05.02-09.26.17:292][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0A/JEQWY0XYAKGQMAYA16YZOZ
+[2024.05.02-09.26.17:292][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/JEQWY0XYAKGQMAYA16YZOZ7B9F0CD9490CE56A41744BB8D456A96A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0A/JEQWY0XYAKGQMAYA16YZOZ.uasset'
+[2024.05.02-09.26.17:294][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ME/A4W38CQG9FA74POZY1DMUF
+[2024.05.02-09.26.17:294][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/A4W38CQG9FA74POZY1DMUF30DF969E4D847275622BF59F70196706.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ME/A4W38CQG9FA74POZY1DMUF.uasset'
+[2024.05.02-09.26.17:296][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/OP/B0YER7R2GSUM3H1RYEOH5S
+[2024.05.02-09.26.17:296][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/B0YER7R2GSUM3H1RYEOH5SC819A4D0472AC875E24F2CA7707301DC.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/OP/B0YER7R2GSUM3H1RYEOH5S.uasset'
+[2024.05.02-09.26.17:297][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4P/6801P6I440WKFK3R3RFINY
+[2024.05.02-09.26.17:297][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/6801P6I440WKFK3R3RFINY043DC97E45660A878C3034BCC20EE0AF.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4P/6801P6I440WKFK3R3RFINY.uasset'
+[2024.05.02-09.26.17:300][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/79/4O63VC8XWCDIC14AHYHNXF
+[2024.05.02-09.26.17:300][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/4O63VC8XWCDIC14AHYHNXF1D6636294A55D24CADC474B21B96676C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/79/4O63VC8XWCDIC14AHYHNXF.uasset'
+[2024.05.02-09.26.17:302][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7T/8PSPA0U0E5FFQJMI6RV5KZ
+[2024.05.02-09.26.17:302][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/8PSPA0U0E5FFQJMI6RV5KZ06650009427D4A27D245DC809E567833.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7T/8PSPA0U0E5FFQJMI6RV5KZ.uasset'
+[2024.05.02-09.26.17:303][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AZ/PTW3PDEFTFNOELT2YHVFRL
+[2024.05.02-09.26.17:303][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/PTW3PDEFTFNOELT2YHVFRL7A102AE54B57904A4822D99DC80550A8.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AZ/PTW3PDEFTFNOELT2YHVFRL.uasset'
+[2024.05.02-09.26.17:305][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0U/SRZLDQUTRWAW6YXS66N3VM
+[2024.05.02-09.26.17:305][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/SRZLDQUTRWAW6YXS66N3VM5459DA244724B6EADEBA9C93EE49D9FB.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0U/SRZLDQUTRWAW6YXS66N3VM.uasset'
+[2024.05.02-09.26.17:306][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/32/LW8GA8XCPFHFEXD56VAA0C
+[2024.05.02-09.26.17:306][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/LW8GA8XCPFHFEXD56VAA0C9A20E5DC4DC5AAA4E65EF1AA8FC45276.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/32/LW8GA8XCPFHFEXD56VAA0C.uasset'
+[2024.05.02-09.26.17:308][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/B4/WV7SOK0TZ8PC5Q1ZOVJYAO
+[2024.05.02-09.26.17:308][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/WV7SOK0TZ8PC5Q1ZOVJYAO62D103FD440869FBC2FBBE992A96E41A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/B4/WV7SOK0TZ8PC5Q1ZOVJYAO.uasset'
+[2024.05.02-09.26.17:310][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Z3/OBUTLCTALDQ5MZP7CF4PK9
+[2024.05.02-09.26.17:310][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/OBUTLCTALDQ5MZP7CF4PK98E2ADB1748F6CE5BC4992BBE2149E64A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Z3/OBUTLCTALDQ5MZP7CF4PK9.uasset'
+[2024.05.02-09.26.17:313][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/8Y/V1G3GN5EHOSK0H2E88EFHJ
+[2024.05.02-09.26.17:313][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/V1G3GN5EHOSK0H2E88EFHJ67D78229465B46BFE3257AB89726E8FD.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/8Y/V1G3GN5EHOSK0H2E88EFHJ.uasset'
+[2024.05.02-09.26.17:314][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/NA/0MVETMLYM9PS6VHBJ31IO1
+[2024.05.02-09.26.17:314][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/0MVETMLYM9PS6VHBJ31IO1F5EEE5C343645DAF418DE59C9CC8D0A8.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/NA/0MVETMLYM9PS6VHBJ31IO1.uasset'
+[2024.05.02-09.26.17:316][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/R4/GY8887HS2EHILTPQ4CE6WZ
+[2024.05.02-09.26.17:316][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GY8887HS2EHILTPQ4CE6WZE480C20D4127C86DD4350EBEEA479CAB.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/R4/GY8887HS2EHILTPQ4CE6WZ.uasset'
+[2024.05.02-09.26.17:319][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QH/01YARP51MO2VZCJHBBXIWK
+[2024.05.02-09.26.17:319][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/01YARP51MO2VZCJHBBXIWKDC8E01C241567F5DC99E1C85DFD37968.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QH/01YARP51MO2VZCJHBBXIWK.uasset'
+[2024.05.02-09.26.17:320][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XJ/WVYZ7OH8JW5ZFOBOAOI6Q0
+[2024.05.02-09.26.17:320][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/WVYZ7OH8JW5ZFOBOAOI6Q0B4A903DD4C870EFD848C5D909E9FB262.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XJ/WVYZ7OH8JW5ZFOBOAOI6Q0.uasset'
+[2024.05.02-09.26.17:322][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6A/ENLBHZETU959ZPFO0ZGI98
+[2024.05.02-09.26.17:322][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ENLBHZETU959ZPFO0ZGI98121EEEF9476280AA1C6DE6AB8347AAE4.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6A/ENLBHZETU959ZPFO0ZGI98.uasset'
+[2024.05.02-09.26.17:323][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/W9/7KAN88WNUVZA1PJAQ30UPT
+[2024.05.02-09.26.17:323][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/7KAN88WNUVZA1PJAQ30UPTB752390F40D2A184D2F8F696137B7109.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/W9/7KAN88WNUVZA1PJAQ30UPT.uasset'
+[2024.05.02-09.26.17:325][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NV/W05UWIADIPODIXJOI6FJLJ
+[2024.05.02-09.26.17:325][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/W05UWIADIPODIXJOI6FJLJ668ACA9346697F58890A69B98FCF7BFC.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NV/W05UWIADIPODIXJOI6FJLJ.uasset'
+[2024.05.02-09.26.17:326][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/70/T4TN0YPFNFBORAGL6JH9RS
+[2024.05.02-09.26.17:326][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/T4TN0YPFNFBORAGL6JH9RS928073D64E82834C72B7EFAA2BFECEB2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/70/T4TN0YPFNFBORAGL6JH9RS.uasset'
+[2024.05.02-09.26.17:328][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JB/Q3BDK6L5X1T5AY2E5S5A9O
+[2024.05.02-09.26.17:328][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/Q3BDK6L5X1T5AY2E5S5A9O9001497F45395482031EA8A1E7EDF62C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JB/Q3BDK6L5X1T5AY2E5S5A9O.uasset'
+[2024.05.02-09.26.17:329][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LM/OZXBHM8Y662KYG78ER7VT5
+[2024.05.02-09.26.17:329][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/OZXBHM8Y662KYG78ER7VT5975F647F40AF1B01BB16C5ADFA56EF71.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LM/OZXBHM8Y662KYG78ER7VT5.uasset'
+[2024.05.02-09.26.17:330][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PK/GF174V2MERBRC9QCDPV1KA
+[2024.05.02-09.26.17:330][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GF174V2MERBRC9QCDPV1KAF6741BD140DF35A5A0357C994713B296.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PK/GF174V2MERBRC9QCDPV1KA.uasset'
+[2024.05.02-09.26.17:332][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SQ/BF0KCKMSN5N8KBG6THOSVQ
+[2024.05.02-09.26.17:332][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/BF0KCKMSN5N8KBG6THOSVQB453BF5546BBF37BD4FFE78DA8AFD5AD.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SQ/BF0KCKMSN5N8KBG6THOSVQ.uasset'
+[2024.05.02-09.26.17:334][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QM/XQDBOMBN1A39QN8HH75SMV
+[2024.05.02-09.26.17:334][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/XQDBOMBN1A39QN8HH75SMVAF71C54C4D44C56230D315BD33D63EF2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QM/XQDBOMBN1A39QN8HH75SMV.uasset'
+[2024.05.02-09.26.17:336][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/YA/TRWW77CDHJ6UU88ZPMPLJQ
+[2024.05.02-09.26.17:336][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/TRWW77CDHJ6UU88ZPMPLJQ0557D4E3473ECAE7C55438B3B4AAE8FE.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/YA/TRWW77CDHJ6UU88ZPMPLJQ.uasset'
+[2024.05.02-09.26.17:337][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/17/2WNDAXD8F002VL9DD3TKEG
+[2024.05.02-09.26.17:337][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/2WNDAXD8F002VL9DD3TKEG9544E1144AF6A6E63AC9838C9387756C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/17/2WNDAXD8F002VL9DD3TKEG.uasset'
+[2024.05.02-09.26.17:339][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/18/MDOYWU7ZAQB3MUJ8HR9UPM
+[2024.05.02-09.26.17:339][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/MDOYWU7ZAQB3MUJ8HR9UPM45DC33F04726F6DC824DFC96B4DE83AA.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/18/MDOYWU7ZAQB3MUJ8HR9UPM.uasset'
+[2024.05.02-09.26.17:341][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IF/X7YKTVK0R1G321X5AIVQ0X
+[2024.05.02-09.26.17:341][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/X7YKTVK0R1G321X5AIVQ0X71246DF9418B37CF37311491FEE8DB02.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IF/X7YKTVK0R1G321X5AIVQ0X.uasset'
+[2024.05.02-09.26.17:342][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X8/774RWCU25XTAQS3F9LADRI
+[2024.05.02-09.26.17:342][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/774RWCU25XTAQS3F9LADRI8C92199341044EE8B9DEDC9DC0B1E987.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X8/774RWCU25XTAQS3F9LADRI.uasset'
+[2024.05.02-09.26.17:343][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ST/69WWQ1ZICPCQVXOM79UDJP
+[2024.05.02-09.26.17:343][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/69WWQ1ZICPCQVXOM79UDJP0DF4610D4D624E88392233AF17C39209.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ST/69WWQ1ZICPCQVXOM79UDJP.uasset'
+[2024.05.02-09.26.17:345][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TH/IZAZHPCU4NK1K67BE81DBQ
+[2024.05.02-09.26.17:345][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/IZAZHPCU4NK1K67BE81DBQ2C085EAD4D30164A31024491CB0025CE.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TH/IZAZHPCU4NK1K67BE81DBQ.uasset'
+[2024.05.02-09.26.17:346][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/PY/1AJ2LSJKUFQQELV48TAFPE
+[2024.05.02-09.26.17:346][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/1AJ2LSJKUFQQELV48TAFPEB8B9B99D49F5A4DF9897A0A88A0E0BBD.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/PY/1AJ2LSJKUFQQELV48TAFPE.uasset'
+[2024.05.02-09.26.17:348][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LG/HJPLOROQB6LOH9JEL8JQOB
+[2024.05.02-09.26.17:348][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/HJPLOROQB6LOH9JEL8JQOBC742AAD948CB7DC83DDD12BE659D4146.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LG/HJPLOROQB6LOH9JEL8JQOB.uasset'
+[2024.05.02-09.26.17:349][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/EOJE0HOLTJDOWYBGZWNVWT
+[2024.05.02-09.26.17:349][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/EOJE0HOLTJDOWYBGZWNVWTC97324E94F120311208D4CAE877E00FA.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/EOJE0HOLTJDOWYBGZWNVWT.uasset'
+[2024.05.02-09.26.17:351][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/73/GMCZWQRASBJDXNVBLKZBVI
+[2024.05.02-09.26.17:351][279]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GMCZWQRASBJDXNVBLKZBVIECD4CB1C4E51A8B1F25DD6BCCFFEABF9.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/73/GMCZWQRASBJDXNVBLKZBVI.uasset'
+[2024.05.02-09.26.17:365][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 393 ms)
+[2024.05.02-09.26.17:370][279]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1972285863
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1992744865
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1976706864
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B7F101_2140867867
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1183238049
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1189626050
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1189630051
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1189630052
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1189631053
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1189631054
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1234151055
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1234155056
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1234156057
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1234157058
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1234157059
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1276897060
+[2024.05.02-09.26.17:370][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1276901061
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1276901062
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1276902063
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1276903064
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1321338065
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1321342066
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1321342067
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1321343068
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1321343069
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1347458070
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1347461071
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1347462072
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1347462073
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1347463074
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1419214075
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1419218076
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1419218077
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1419219078
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1419219079
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497728080
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1497731081
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497732082
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497732083
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1497733084
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1544928085
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_1544931086
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1544932087
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1544932088
+[2024.05.02-09.26.17:371][279]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_1544932089
+[2024.05.02-09.26.17:376][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.02-09.26.18:774][413]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-09.26.18:780][413]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-09.26.18:780][413]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-09.26.18:789][413]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8 ms (total: 17 ms)
+[2024.05.02-09.26.18:789][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-09.26.18:789][413]PIE: New page: PIE session: ThirdPersonMap (2 may. 2024 13:26:18)
+[2024.05.02-09.26.18:789][413]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2024.05.02-09.26.18:792][413]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.05.02-09.26.18:806][414]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-09.26.18:928][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122409s)
+[2024.05.02-09.26.18:928][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.122446s)
+[2024.05.02-09.26.18:932][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.02-09.26.18:933][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-09.26.18:933][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-09.26.18:933][414]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-09.26.18:934][414]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-09.26.18:934][414]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-09.26.18:934][414]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-09.26.18:934][414]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-09.26.18:941][414]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-09.26.18:941][414]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 259 ms)
+[2024.05.02-09.26.18:941][414]LogPlayLevel: PIE: World Init took: (0.007853s)
+[2024.05.02-09.26.18:941][414]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.02-09.26.18:941][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-09.26.18:941][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-09.26.18:941][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-09.26.18:941][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-09.26.18:941][414]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-09.26.18:941][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-09.26.18:941][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-09.26.18:941][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-09.26.18:941][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-09.26.18:941][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-09.26.18:941][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-09.26.18:943][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-09.26.18:961][414]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2024.05.02-09.26.18:961][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-09.26.18:961][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-09.26.18:961][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-09.26.18:962][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.02-09.26.18:962][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=3
+[2024.05.02-09.26.18:963][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.02-09.26.18:963][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.02-09.26.18:963][414]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.02-09.26.18:963][414]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.05.02-09.26.18:963][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.02-09.26.18:965][414]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-09.26.18:980][414]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-11.26.18
+[2024.05.02-09.26.18:981][414]LogWorld: Bringing up level for play took: 0.015462
+[2024.05.02-09.26.18:984][414]PIE: Server logged in
+[2024.05.02-09.26.18:984][414]PIE: Play in editor total start time 0,204 seconds.
+[2024.05.02-09.27.53:279][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.27.53:279][716]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-09.27.53:279][716]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-09.27.53:281][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.27.53:282][716]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-09.27.53:284][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-09.27.53:286][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-09.27.53:292][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-09.27.53:292][716]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.02-09.27.53:292][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.02-09.27.53:294][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.02-09.27.53:296][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-09.27.53:301][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.02-09.27.53:362][718]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.05.02-09.28.06:042][157]LogViewport: Scene viewport resized to 1310x727, mode Windowed.
+[2024.05.02-09.28.06:055][158]LogViewport: Scene viewport resized to 1310x722, mode Windowed.
+[2024.05.02-09.28.06:071][159]LogViewport: Scene viewport resized to 1310x711, mode Windowed.
+[2024.05.02-09.28.06:095][160]LogViewport: Scene viewport resized to 1310x699, mode Windowed.
+[2024.05.02-09.28.06:113][161]LogViewport: Scene viewport resized to 1310x683, mode Windowed.
+[2024.05.02-09.28.06:134][162]LogViewport: Scene viewport resized to 1310x662, mode Windowed.
+[2024.05.02-09.28.06:153][163]LogViewport: Scene viewport resized to 1310x639, mode Windowed.
+[2024.05.02-09.28.06:173][164]LogViewport: Scene viewport resized to 1310x614, mode Windowed.
+[2024.05.02-09.28.06:193][165]LogViewport: Scene viewport resized to 1310x587, mode Windowed.
+[2024.05.02-09.28.06:212][166]LogViewport: Scene viewport resized to 1310x568, mode Windowed.
+[2024.05.02-09.28.06:231][167]LogViewport: Scene viewport resized to 1310x553, mode Windowed.
+[2024.05.02-09.28.06:251][168]LogViewport: Scene viewport resized to 1310x541, mode Windowed.
+[2024.05.02-09.28.06:270][169]LogViewport: Scene viewport resized to 1310x537, mode Windowed.
+[2024.05.02-09.28.06:290][170]LogViewport: Scene viewport resized to 1310x533, mode Windowed.
+[2024.05.02-09.28.06:309][171]LogViewport: Scene viewport resized to 1310x530, mode Windowed.
+[2024.05.02-09.28.06:326][172]LogViewport: Scene viewport resized to 1310x529, mode Windowed.
+[2024.05.02-09.28.22:474][869]LogViewport: Scene viewport resized to 1310x527, mode Windowed.
+[2024.05.02-09.28.22:491][870]LogViewport: Scene viewport resized to 1310x524, mode Windowed.
+[2024.05.02-09.28.22:506][871]LogViewport: Scene viewport resized to 1310x519, mode Windowed.
+[2024.05.02-09.28.22:524][872]LogViewport: Scene viewport resized to 1310x512, mode Windowed.
+[2024.05.02-09.28.22:544][873]LogViewport: Scene viewport resized to 1310x503, mode Windowed.
+[2024.05.02-09.28.22:566][874]LogViewport: Scene viewport resized to 1310x493, mode Windowed.
+[2024.05.02-09.28.22:584][875]LogViewport: Scene viewport resized to 1310x482, mode Windowed.
+[2024.05.02-09.28.22:603][876]LogViewport: Scene viewport resized to 1310x469, mode Windowed.
+[2024.05.02-09.28.22:623][877]LogViewport: Scene viewport resized to 1310x457, mode Windowed.
+[2024.05.02-09.28.22:643][878]LogViewport: Scene viewport resized to 1310x446, mode Windowed.
+[2024.05.02-09.28.22:661][879]LogViewport: Scene viewport resized to 1310x435, mode Windowed.
+[2024.05.02-09.28.22:679][880]LogViewport: Scene viewport resized to 1310x425, mode Windowed.
+[2024.05.02-09.28.22:696][881]LogViewport: Scene viewport resized to 1310x416, mode Windowed.
+[2024.05.02-09.28.22:717][882]LogViewport: Scene viewport resized to 1310x406, mode Windowed.
+[2024.05.02-09.28.22:742][883]LogViewport: Scene viewport resized to 1310x394, mode Windowed.
+[2024.05.02-09.28.22:759][884]LogViewport: Scene viewport resized to 1310x385, mode Windowed.
+[2024.05.02-09.28.22:776][885]LogViewport: Scene viewport resized to 1310x374, mode Windowed.
+[2024.05.02-09.28.22:795][886]LogViewport: Scene viewport resized to 1310x364, mode Windowed.
+[2024.05.02-09.28.22:815][887]LogViewport: Scene viewport resized to 1310x354, mode Windowed.
+[2024.05.02-09.28.22:833][888]LogViewport: Scene viewport resized to 1310x345, mode Windowed.
+[2024.05.02-09.28.22:851][889]LogViewport: Scene viewport resized to 1310x339, mode Windowed.
+[2024.05.02-09.28.22:869][890]LogViewport: Scene viewport resized to 1310x333, mode Windowed.
+[2024.05.02-09.28.22:885][891]LogViewport: Scene viewport resized to 1310x328, mode Windowed.
+[2024.05.02-09.28.22:904][892]LogViewport: Scene viewport resized to 1310x325, mode Windowed.
+[2024.05.02-09.28.22:921][893]LogViewport: Scene viewport resized to 1310x322, mode Windowed.
+[2024.05.02-09.28.22:938][894]LogViewport: Scene viewport resized to 1310x318, mode Windowed.
+[2024.05.02-09.28.22:955][895]LogViewport: Scene viewport resized to 1310x315, mode Windowed.
+[2024.05.02-09.28.22:973][896]LogViewport: Scene viewport resized to 1310x314, mode Windowed.
+[2024.05.02-09.28.22:990][897]LogViewport: Scene viewport resized to 1310x310, mode Windowed.
+[2024.05.02-09.28.23:006][898]LogViewport: Scene viewport resized to 1310x308, mode Windowed.
+[2024.05.02-09.28.23:024][899]LogViewport: Scene viewport resized to 1310x306, mode Windowed.
+[2024.05.02-09.28.23:040][900]LogViewport: Scene viewport resized to 1310x303, mode Windowed.
+[2024.05.02-09.28.23:058][901]LogViewport: Scene viewport resized to 1310x299, mode Windowed.
+[2024.05.02-09.28.23:074][902]LogViewport: Scene viewport resized to 1310x298, mode Windowed.
+[2024.05.02-09.28.23:092][903]LogViewport: Scene viewport resized to 1310x295, mode Windowed.
+[2024.05.02-09.28.23:106][904]LogViewport: Scene viewport resized to 1310x291, mode Windowed.
+[2024.05.02-09.28.23:125][905]LogViewport: Scene viewport resized to 1310x288, mode Windowed.
+[2024.05.02-09.28.23:143][906]LogViewport: Scene viewport resized to 1310x286, mode Windowed.
+[2024.05.02-09.28.23:162][907]LogViewport: Scene viewport resized to 1310x282, mode Windowed.
+[2024.05.02-09.28.23:176][908]LogViewport: Scene viewport resized to 1310x280, mode Windowed.
+[2024.05.02-09.28.23:192][909]LogViewport: Scene viewport resized to 1310x279, mode Windowed.
+[2024.05.02-09.28.23:209][910]LogViewport: Scene viewport resized to 1310x276, mode Windowed.
+[2024.05.02-09.28.23:224][911]LogViewport: Scene viewport resized to 1310x272, mode Windowed.
+[2024.05.02-09.28.23:241][912]LogViewport: Scene viewport resized to 1310x270, mode Windowed.
+[2024.05.02-09.28.23:258][913]LogViewport: Scene viewport resized to 1310x266, mode Windowed.
+[2024.05.02-09.28.23:273][914]LogViewport: Scene viewport resized to 1310x264, mode Windowed.
+[2024.05.02-09.28.23:293][915]LogViewport: Scene viewport resized to 1310x263, mode Windowed.
+[2024.05.02-09.28.23:310][916]LogViewport: Scene viewport resized to 1310x260, mode Windowed.
+[2024.05.02-09.28.23:326][917]LogViewport: Scene viewport resized to 1310x259, mode Windowed.
+[2024.05.02-09.28.23:611][950]LogViewport: Scene viewport resized to 1310x260, mode Windowed.
+[2024.05.02-09.28.23:625][951]LogViewport: Scene viewport resized to 1310x265, mode Windowed.
+[2024.05.02-09.28.23:641][952]LogViewport: Scene viewport resized to 1310x270, mode Windowed.
+[2024.05.02-09.28.23:656][953]LogViewport: Scene viewport resized to 1310x276, mode Windowed.
+[2024.05.02-09.28.23:674][954]LogViewport: Scene viewport resized to 1310x282, mode Windowed.
+[2024.05.02-09.28.23:693][955]LogViewport: Scene viewport resized to 1310x289, mode Windowed.
+[2024.05.02-09.28.23:709][956]LogViewport: Scene viewport resized to 1310x293, mode Windowed.
+[2024.05.02-09.28.23:726][957]LogViewport: Scene viewport resized to 1310x298, mode Windowed.
+[2024.05.02-09.28.23:742][958]LogViewport: Scene viewport resized to 1310x304, mode Windowed.
+[2024.05.02-09.28.23:759][959]LogViewport: Scene viewport resized to 1310x309, mode Windowed.
+[2024.05.02-09.28.23:776][960]LogViewport: Scene viewport resized to 1310x315, mode Windowed.
+[2024.05.02-09.28.23:793][961]LogViewport: Scene viewport resized to 1310x322, mode Windowed.
+[2024.05.02-09.28.23:808][962]LogViewport: Scene viewport resized to 1310x327, mode Windowed.
+[2024.05.02-09.28.23:827][963]LogViewport: Scene viewport resized to 1310x331, mode Windowed.
+[2024.05.02-09.28.23:842][964]LogViewport: Scene viewport resized to 1310x335, mode Windowed.
+[2024.05.02-09.28.23:859][965]LogViewport: Scene viewport resized to 1310x340, mode Windowed.
+[2024.05.02-09.28.23:876][966]LogViewport: Scene viewport resized to 1310x343, mode Windowed.
+[2024.05.02-09.28.23:893][967]LogViewport: Scene viewport resized to 1310x345, mode Windowed.
+[2024.05.02-09.28.23:910][968]LogViewport: Scene viewport resized to 1310x348, mode Windowed.
+[2024.05.02-09.28.23:926][969]LogViewport: Scene viewport resized to 1310x349, mode Windowed.
+[2024.05.02-09.28.24:165][996]LogViewport: Scene viewport resized to 1310x353, mode Windowed.
+[2024.05.02-09.28.24:180][997]LogViewport: Scene viewport resized to 1310x356, mode Windowed.
+[2024.05.02-09.28.24:198][998]LogViewport: Scene viewport resized to 1310x358, mode Windowed.
+[2024.05.02-09.28.24:216][999]LogViewport: Scene viewport resized to 1310x362, mode Windowed.
+[2024.05.02-09.28.24:230][  0]LogViewport: Scene viewport resized to 1310x367, mode Windowed.
+[2024.05.02-09.28.24:248][  1]LogViewport: Scene viewport resized to 1310x370, mode Windowed.
+[2024.05.02-09.28.24:267][  2]LogViewport: Scene viewport resized to 1310x374, mode Windowed.
+[2024.05.02-09.28.24:285][  3]LogViewport: Scene viewport resized to 1310x378, mode Windowed.
+[2024.05.02-09.28.24:303][  4]LogViewport: Scene viewport resized to 1310x381, mode Windowed.
+[2024.05.02-09.28.24:322][  5]LogViewport: Scene viewport resized to 1310x382, mode Windowed.
+[2024.05.02-09.28.24:341][  6]LogViewport: Scene viewport resized to 1310x384, mode Windowed.
+[2024.05.02-09.28.24:354][  7]LogViewport: Scene viewport resized to 1310x385, mode Windowed.
+[2024.05.02-09.28.31:825][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-09.28.31:955][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-09.28.32:019][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-09.28.32:042][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-09.28.32:065][734]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-09.28.49:206][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-09.29.04:113][662]Cmd: TRANSACTION UNDO
+[2024.05.02-09.29.04:113][662]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.29.12:632][363]Cmd: TRANSACTION UNDO
+[2024.05.02-09.29.12:632][363]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.29.15:610][532]Cmd: TRANSACTION UNDO
+[2024.05.02-09.29.15:610][532]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.29.17:403][676]Cmd: TRANSACTION UNDO
+[2024.05.02-09.29.17:403][676]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.29.28:684][670]Cmd: TRANSACTION UNDO
+[2024.05.02-09.29.28:684][670]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.29.32:899][951]Cmd: TRANSACTION UNDO
+[2024.05.02-09.29.32:899][951]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.29.53:837][156]LogViewport: Scene viewport resized to 1310x386, mode Windowed.
+[2024.05.02-09.29.53:852][157]LogViewport: Scene viewport resized to 1310x387, mode Windowed.
+[2024.05.02-09.29.53:867][158]LogViewport: Scene viewport resized to 1310x390, mode Windowed.
+[2024.05.02-09.29.53:884][159]LogViewport: Scene viewport resized to 1310x393, mode Windowed.
+[2024.05.02-09.29.53:902][160]LogViewport: Scene viewport resized to 1310x401, mode Windowed.
+[2024.05.02-09.29.53:920][161]LogViewport: Scene viewport resized to 1310x411, mode Windowed.
+[2024.05.02-09.29.53:937][162]LogViewport: Scene viewport resized to 1310x421, mode Windowed.
+[2024.05.02-09.29.53:957][163]LogViewport: Scene viewport resized to 1310x431, mode Windowed.
+[2024.05.02-09.29.53:977][164]LogViewport: Scene viewport resized to 1310x444, mode Windowed.
+[2024.05.02-09.29.53:995][165]LogViewport: Scene viewport resized to 1310x454, mode Windowed.
+[2024.05.02-09.29.54:014][166]LogViewport: Scene viewport resized to 1310x464, mode Windowed.
+[2024.05.02-09.29.54:033][167]LogViewport: Scene viewport resized to 1310x477, mode Windowed.
+[2024.05.02-09.29.54:052][168]LogViewport: Scene viewport resized to 1310x491, mode Windowed.
+[2024.05.02-09.29.54:070][169]LogViewport: Scene viewport resized to 1310x503, mode Windowed.
+[2024.05.02-09.29.54:093][170]LogViewport: Scene viewport resized to 1310x512, mode Windowed.
+[2024.05.02-09.29.54:111][171]LogViewport: Scene viewport resized to 1310x520, mode Windowed.
+[2024.05.02-09.29.54:129][172]LogViewport: Scene viewport resized to 1310x526, mode Windowed.
+[2024.05.02-09.29.54:151][173]LogViewport: Scene viewport resized to 1310x533, mode Windowed.
+[2024.05.02-09.29.54:170][174]LogViewport: Scene viewport resized to 1310x543, mode Windowed.
+[2024.05.02-09.29.54:191][175]LogViewport: Scene viewport resized to 1310x552, mode Windowed.
+[2024.05.02-09.29.54:209][176]LogViewport: Scene viewport resized to 1310x559, mode Windowed.
+[2024.05.02-09.29.54:229][177]LogViewport: Scene viewport resized to 1310x568, mode Windowed.
+[2024.05.02-09.29.54:247][178]LogViewport: Scene viewport resized to 1310x577, mode Windowed.
+[2024.05.02-09.29.54:266][179]LogViewport: Scene viewport resized to 1310x584, mode Windowed.
+[2024.05.02-09.29.54:288][180]LogViewport: Scene viewport resized to 1310x592, mode Windowed.
+[2024.05.02-09.29.54:307][181]LogViewport: Scene viewport resized to 1310x599, mode Windowed.
+[2024.05.02-09.29.54:328][182]LogViewport: Scene viewport resized to 1310x605, mode Windowed.
+[2024.05.02-09.29.54:347][183]LogViewport: Scene viewport resized to 1310x610, mode Windowed.
+[2024.05.02-09.29.54:365][184]LogViewport: Scene viewport resized to 1310x617, mode Windowed.
+[2024.05.02-09.29.54:385][185]LogViewport: Scene viewport resized to 1310x623, mode Windowed.
+[2024.05.02-09.29.54:406][186]LogViewport: Scene viewport resized to 1310x628, mode Windowed.
+[2024.05.02-09.29.54:423][187]LogViewport: Scene viewport resized to 1310x633, mode Windowed.
+[2024.05.02-09.29.54:442][188]LogViewport: Scene viewport resized to 1310x638, mode Windowed.
+[2024.05.02-09.29.54:460][189]LogViewport: Scene viewport resized to 1310x639, mode Windowed.
+[2024.05.02-09.29.54:479][190]LogViewport: Scene viewport resized to 1310x641, mode Windowed.
+[2024.05.02-09.29.54:497][191]LogViewport: Scene viewport resized to 1310x643, mode Windowed.
+[2024.05.02-09.29.54:518][192]LogViewport: Scene viewport resized to 1310x645, mode Windowed.
+[2024.05.02-09.29.54:534][193]LogViewport: Scene viewport resized to 1310x646, mode Windowed.
+[2024.05.02-09.29.54:553][194]LogViewport: Scene viewport resized to 1310x648, mode Windowed.
+[2024.05.02-09.29.54:567][195]LogViewport: Scene viewport resized to 1310x649, mode Windowed.
+[2024.05.02-09.30.37:992][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.30.38:032][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.02-09.30.38:036][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.30.38:040][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.30.38:041][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SW/ZT8A12KISQ5ZWEN7WG5P0U
+[2024.05.02-09.30.38:042][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ZT8A12KISQ5ZWEN7WG5P0UF061E25A45EFAA6A4C371B865DED7592.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SW/ZT8A12KISQ5ZWEN7WG5P0U.uasset'
+[2024.05.02-09.30.38:043][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/8HVMXZTGGVOPFBEJH7ANNE
+[2024.05.02-09.30.38:044][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/8HVMXZTGGVOPFBEJH7ANNE63DD7A9245EF097558862E98BFF449B2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/8HVMXZTGGVOPFBEJH7ANNE.uasset'
+[2024.05.02-09.30.38:045][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5R/02Y1CFCCP7V4XR1QLJPL3C
+[2024.05.02-09.30.38:045][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/02Y1CFCCP7V4XR1QLJPL3CDE4926714D9E034CC6ED219ED919B7D2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5R/02Y1CFCCP7V4XR1QLJPL3C.uasset'
+[2024.05.02-09.30.38:046][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HX/8HQNQSYOIQN08E7YO67QYL
+[2024.05.02-09.30.38:047][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/8HQNQSYOIQN08E7YO67QYLAAF92F7346D01535A05AFCA842353817.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HX/8HQNQSYOIQN08E7YO67QYL.uasset'
+[2024.05.02-09.30.38:048][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/2T/RJJPOGEBD9WIPWTJBK0U82
+[2024.05.02-09.30.38:048][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/RJJPOGEBD9WIPWTJBK0U82BD198CED4FA35102766A06B6205FC77E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/2T/RJJPOGEBD9WIPWTJBK0U82.uasset'
+[2024.05.02-09.30.38:049][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FM/3TDXF3ZU3M8I15BXU9GU4T
+[2024.05.02-09.30.38:050][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/3TDXF3ZU3M8I15BXU9GU4TC7E03D3A42C39EEFA9000FAAD27251C8.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FM/3TDXF3ZU3M8I15BXU9GU4T.uasset'
+[2024.05.02-09.30.38:051][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2Q/JXL59P0UX8VD96XLYWDUQ3
+[2024.05.02-09.30.38:051][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/JXL59P0UX8VD96XLYWDUQ38C1F2F444D223856DA53599641DC51EF.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2Q/JXL59P0UX8VD96XLYWDUQ3.uasset'
+[2024.05.02-09.30.38:052][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ME/A4W38CQG9FA74POZY1DMUF
+[2024.05.02-09.30.38:053][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/A4W38CQG9FA74POZY1DMUF2012DCBA45663FB056F8FFB5AC662F90.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ME/A4W38CQG9FA74POZY1DMUF.uasset'
+[2024.05.02-09.30.38:054][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4P/6801P6I440WKFK3R3RFINY
+[2024.05.02-09.30.38:054][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/6801P6I440WKFK3R3RFINY6972A1CE4F4D67DEA587DD8898D13A09.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4P/6801P6I440WKFK3R3RFINY.uasset'
+[2024.05.02-09.30.38:055][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/79/4O63VC8XWCDIC14AHYHNXF
+[2024.05.02-09.30.38:056][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/4O63VC8XWCDIC14AHYHNXFD335222D42CC08FA68A9868C92E23C88.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/79/4O63VC8XWCDIC14AHYHNXF.uasset'
+[2024.05.02-09.30.38:057][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6A/ENLBHZETU959ZPFO0ZGI98
+[2024.05.02-09.30.38:057][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ENLBHZETU959ZPFO0ZGI98E3B54A234EA75A51A2605DBFB70489A5.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6A/ENLBHZETU959ZPFO0ZGI98.uasset'
+[2024.05.02-09.30.38:059][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NV/W05UWIADIPODIXJOI6FJLJ
+[2024.05.02-09.30.38:060][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/W05UWIADIPODIXJOI6FJLJ321E8FA7403A7B65707EBAB52E68AC4A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NV/W05UWIADIPODIXJOI6FJLJ.uasset'
+[2024.05.02-09.30.38:061][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/70/T4TN0YPFNFBORAGL6JH9RS
+[2024.05.02-09.30.38:061][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/T4TN0YPFNFBORAGL6JH9RS9034A4A24D94766CDA759B9517102F5C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/70/T4TN0YPFNFBORAGL6JH9RS.uasset'
+[2024.05.02-09.30.38:062][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LM/OZXBHM8Y662KYG78ER7VT5
+[2024.05.02-09.30.38:062][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/OZXBHM8Y662KYG78ER7VT56BBEA8D04B86DCC5C0204F939CFDD30F.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LM/OZXBHM8Y662KYG78ER7VT5.uasset'
+[2024.05.02-09.30.38:064][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SQ/BF0KCKMSN5N8KBG6THOSVQ
+[2024.05.02-09.30.38:064][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/BF0KCKMSN5N8KBG6THOSVQ898F21FB4241C667367B348770CAE744.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SQ/BF0KCKMSN5N8KBG6THOSVQ.uasset'
+[2024.05.02-09.30.38:065][829]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QM/XQDBOMBN1A39QN8HH75SMV
+[2024.05.02-09.30.38:065][829]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/XQDBOMBN1A39QN8HH75SMV1B57DEA4430293462769628B227B8533.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QM/XQDBOMBN1A39QN8HH75SMV.uasset'
+[2024.05.02-09.30.38:078][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 479 ms)
+[2024.05.02-09.30.38:082][829]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF48671F101_1806614554
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1972285863
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1992744865
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B7F101_1976706864
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1189626050
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1189630052
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1189631053
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1234151055
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1234156057
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1234157058
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1347458070
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1347462072
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1347462073
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1419214075
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1419218077
+[2024.05.02-09.30.38:082][829]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1419219078
+[2024.05.02-09.31.08:765][ 69]Cmd: TRANSACTION UNDO
+[2024.05.02-09.31.08:765][ 69]LogEditorTransaction: Undo Create Actors
+[2024.05.02-09.31.58:329][576]LogViewport: Scene viewport resized to 1310x647, mode Windowed.
+[2024.05.02-09.31.58:342][577]LogViewport: Scene viewport resized to 1310x644, mode Windowed.
+[2024.05.02-09.31.58:359][578]LogViewport: Scene viewport resized to 1310x638, mode Windowed.
+[2024.05.02-09.31.58:377][579]LogViewport: Scene viewport resized to 1310x629, mode Windowed.
+[2024.05.02-09.31.58:397][580]LogViewport: Scene viewport resized to 1310x620, mode Windowed.
+[2024.05.02-09.31.58:416][581]LogViewport: Scene viewport resized to 1310x611, mode Windowed.
+[2024.05.02-09.31.58:433][582]LogViewport: Scene viewport resized to 1310x603, mode Windowed.
+[2024.05.02-09.31.58:451][583]LogViewport: Scene viewport resized to 1310x593, mode Windowed.
+[2024.05.02-09.31.58:469][584]LogViewport: Scene viewport resized to 1310x586, mode Windowed.
+[2024.05.02-09.31.58:489][585]LogViewport: Scene viewport resized to 1310x577, mode Windowed.
+[2024.05.02-09.31.58:506][586]LogViewport: Scene viewport resized to 1310x568, mode Windowed.
+[2024.05.02-09.31.58:523][587]LogViewport: Scene viewport resized to 1310x561, mode Windowed.
+[2024.05.02-09.31.58:541][588]LogViewport: Scene viewport resized to 1310x556, mode Windowed.
+[2024.05.02-09.31.58:560][589]LogViewport: Scene viewport resized to 1310x550, mode Windowed.
+[2024.05.02-09.31.58:576][590]LogViewport: Scene viewport resized to 1310x546, mode Windowed.
+[2024.05.02-09.31.58:594][591]LogViewport: Scene viewport resized to 1310x545, mode Windowed.
+[2024.05.02-09.31.58:612][592]LogViewport: Scene viewport resized to 1310x542, mode Windowed.
+[2024.05.02-09.31.58:628][593]LogViewport: Scene viewport resized to 1310x538, mode Windowed.
+[2024.05.02-09.31.58:645][594]LogViewport: Scene viewport resized to 1310x536, mode Windowed.
+[2024.05.02-09.31.58:662][595]LogViewport: Scene viewport resized to 1310x532, mode Windowed.
+[2024.05.02-09.31.58:681][596]LogViewport: Scene viewport resized to 1310x527, mode Windowed.
+[2024.05.02-09.31.58:699][597]LogViewport: Scene viewport resized to 1310x522, mode Windowed.
+[2024.05.02-09.31.58:716][598]LogViewport: Scene viewport resized to 1310x518, mode Windowed.
+[2024.05.02-09.31.58:733][599]LogViewport: Scene viewport resized to 1310x511, mode Windowed.
+[2024.05.02-09.31.58:751][600]LogViewport: Scene viewport resized to 1310x506, mode Windowed.
+[2024.05.02-09.31.58:770][601]LogViewport: Scene viewport resized to 1310x501, mode Windowed.
+[2024.05.02-09.31.58:788][602]LogViewport: Scene viewport resized to 1310x497, mode Windowed.
+[2024.05.02-09.31.58:806][603]LogViewport: Scene viewport resized to 1310x494, mode Windowed.
+[2024.05.02-09.32.41:135][308]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2024.05.02-09.32.41:138][308]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2024.05.02-09.32.41:138][308]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.05.02-09.32.41:429][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2024.05.02-09.32.41:429][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2024.05.02-09.32.41:432][338]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1946924090
+[2024.05.02-09.32.47:855][ 92]Cmd: DELETE
+[2024.05.02-09.32.47:855][ 92]Cmd: ACTOR DELETE
+[2024.05.02-09.32.47:858][ 92]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.32.47:863][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.02-09.32.47:864][ 92]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.05.02-09.32.53:853][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2024.05.02-09.32.53:853][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2024.05.02-09.32.53:853][737]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.05.02-09.32.54:362][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2024.05.02-09.32.54:362][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2024.05.02-09.32.54:366][797]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1959857091
+[2024.05.02-09.32.55:585][938]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1959857091.StaticMeshComponent0, from: Addition to navoctree)
+[2024.05.02-09.32.55:627][943]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1959857091.StaticMeshComponent0, from: Remove from navoctree)
+[2024.05.02-09.32.55:936][980]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1959857091.StaticMeshComponent0, from: Addition to navoctree)
+[2024.05.02-09.32.55:944][981]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1959857091.StaticMeshComponent0, from: Remove from navoctree)
+[2024.05.02-09.32.59:249][371]Cmd: DELETE
+[2024.05.02-09.32.59:249][371]Cmd: ACTOR DELETE
+[2024.05.02-09.32.59:252][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.32.59:255][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.02-09.32.59:256][371]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.05.02-09.33.00:971][530]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2024.05.02-09.33.00:971][530]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2024.05.02-09.33.00:971][530]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.05.02-09.33.01:152][551]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2024.05.02-09.33.01:152][551]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2024.05.02-09.33.01:155][551]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1966647092
+[2024.05.02-09.33.13:181][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2024.05.02-09.33.13:181][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2024.05.02-09.33.13:182][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+[2024.05.02-09.33.13:346][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2024.05.02-09.33.13:346][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2024.05.02-09.33.13:349][909]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1978841093
+[2024.05.02-09.33.33:805][280]Cmd: DELETE
+[2024.05.02-09.33.33:805][280]Cmd: ACTOR DELETE
+[2024.05.02-09.33.33:809][280]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.33.33:812][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.02-09.33.33:814][280]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.05.02-09.33.38:653][810]Cmd: TRANSACTION UNDO
+[2024.05.02-09.33.38:653][810]LogEditorTransaction: Undo Scale Elements
+[2024.05.02-09.33.39:617][863]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1966647092.StaticMeshComponent0, from: Remove from navoctree)
+[2024.05.02-09.33.39:867][881]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1966647092.StaticMeshComponent0, from: Remove from navoctree)
+[2024.05.02-09.33.59:064][971]Cmd: DELETE
+[2024.05.02-09.33.59:064][971]Cmd: ACTOR DELETE
+[2024.05.02-09.33.59:066][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.33.59:070][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.02-09.33.59:072][971]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.05.02-09.34.18:658][233]Cmd: DELETE
+[2024.05.02-09.34.18:658][233]Cmd: ACTOR DELETE
+[2024.05.02-09.34.18:661][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.34.18:665][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.34.18:667][233]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.05.02-09.34.22:556][694]Cmd: DELETE
+[2024.05.02-09.34.22:556][694]Cmd: ACTOR DELETE
+[2024.05.02-09.34.22:559][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.34.22:565][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.02-09.34.22:566][694]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.05.02-09.34.26:353][141]Cmd: EDIT COPY
+[2024.05.02-09.34.26:679][180]Cmd: EDIT PASTE
+[2024.05.02-09.34.45:938][345]Cmd: EDIT COPY
+[2024.05.02-09.34.46:178][362]Cmd: EDIT PASTE
+[2024.05.02-09.34.54:856][288]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.34.57:805][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.35.09:617][941]Cmd: EDIT COPY
+[2024.05.02-09.35.09:844][957]Cmd: EDIT PASTE
+[2024.05.02-09.35.13:317][345]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.35.15:054][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.35.19:611][ 59]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.35.25:670][695]Cmd: DELETE
+[2024.05.02-09.35.25:670][695]Cmd: ACTOR DELETE
+[2024.05.02-09.35.25:673][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.35.25:678][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.02-09.35.25:680][695]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.05.02-09.35.57:580][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.35.57:627][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.02-09.35.57:637][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.05.02-09.35.57:643][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.02-09.35.57:645][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9D/YH2D8VVX3NJ3I2X3FPEN93
+[2024.05.02-09.35.57:646][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/YH2D8VVX3NJ3I2X3FPEN93002ED3DF4D36E9E46945E09C83FAE59D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9D/YH2D8VVX3NJ3I2X3FPEN93.uasset'
+[2024.05.02-09.35.57:647][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1C/5VYMRXYYW6GMHFTKIP9JON
+[2024.05.02-09.35.57:648][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/5VYMRXYYW6GMHFTKIP9JON8CBC5DC8417CE27F2E91F8A05D650DFD.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1C/5VYMRXYYW6GMHFTKIP9JON.uasset'
+[2024.05.02-09.35.57:649][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/EOJE0HOLTJDOWYBGZWNVWT
+[2024.05.02-09.35.57:650][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/EOJE0HOLTJDOWYBGZWNVWTA4EAC03F41AE840CAD374693E778D1E5.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LK/EOJE0HOLTJDOWYBGZWNVWT.uasset'
+[2024.05.02-09.35.57:651][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LG/HJPLOROQB6LOH9JEL8JQOB
+[2024.05.02-09.35.57:651][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/HJPLOROQB6LOH9JEL8JQOBF53D58DF499175A61443CF8E8891448F.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LG/HJPLOROQB6LOH9JEL8JQOB.uasset'
+[2024.05.02-09.35.57:653][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AZ/PTW3PDEFTFNOELT2YHVFRL
+[2024.05.02-09.35.57:653][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/PTW3PDEFTFNOELT2YHVFRLBBF838B343A567889C24C3864036461C.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AZ/PTW3PDEFTFNOELT2YHVFRL.uasset'
+[2024.05.02-09.35.57:654][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/32/LW8GA8XCPFHFEXD56VAA0C
+[2024.05.02-09.35.57:654][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/LW8GA8XCPFHFEXD56VAA0C3F40A16D4C68A934DC9415A8E2A828B7.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/32/LW8GA8XCPFHFEXD56VAA0C.uasset'
+[2024.05.02-09.35.57:656][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/B4/WV7SOK0TZ8PC5Q1ZOVJYAO
+[2024.05.02-09.35.57:656][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/WV7SOK0TZ8PC5Q1ZOVJYAOEC0371534E7C826AC97E32848C556CF9.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/B4/WV7SOK0TZ8PC5Q1ZOVJYAO.uasset'
+[2024.05.02-09.35.57:658][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/8Y/V1G3GN5EHOSK0H2E88EFHJ
+[2024.05.02-09.35.57:658][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/V1G3GN5EHOSK0H2E88EFHJDBF882B34A152E71C10804978013D09E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/8Y/V1G3GN5EHOSK0H2E88EFHJ.uasset'
+[2024.05.02-09.35.57:659][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/R4/GY8887HS2EHILTPQ4CE6WZ
+[2024.05.02-09.35.57:659][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GY8887HS2EHILTPQ4CE6WZBA6BA5CE41C96E936F1E4EBD718289A1.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/R4/GY8887HS2EHILTPQ4CE6WZ.uasset'
+[2024.05.02-09.35.57:661][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QH/01YARP51MO2VZCJHBBXIWK
+[2024.05.02-09.35.57:661][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/01YARP51MO2VZCJHBBXIWKBBAF790140C27C49B41A47B0EAB2B58D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QH/01YARP51MO2VZCJHBBXIWK.uasset'
+[2024.05.02-09.35.57:662][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/17/2WNDAXD8F002VL9DD3TKEG
+[2024.05.02-09.35.57:662][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/2WNDAXD8F002VL9DD3TKEGE085E8A548710EECD8AAFAB054669A2E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/17/2WNDAXD8F002VL9DD3TKEG.uasset'
+[2024.05.02-09.35.57:664][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IF/X7YKTVK0R1G321X5AIVQ0X
+[2024.05.02-09.35.57:664][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/X7YKTVK0R1G321X5AIVQ0XD8EE39E04B8BBFCC63576E9AC9F8F971.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IF/X7YKTVK0R1G321X5AIVQ0X.uasset'
+[2024.05.02-09.35.57:666][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X8/774RWCU25XTAQS3F9LADRI
+[2024.05.02-09.35.57:666][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/774RWCU25XTAQS3F9LADRIB5069063446C97680792359C14C7595B.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X8/774RWCU25XTAQS3F9LADRI.uasset'
+[2024.05.02-09.35.57:667][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TH/IZAZHPCU4NK1K67BE81DBQ
+[2024.05.02-09.35.57:667][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/IZAZHPCU4NK1K67BE81DBQC4A1582E4E8E6EAC52864199DDB37EED.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TH/IZAZHPCU4NK1K67BE81DBQ.uasset'
+[2024.05.02-09.35.57:669][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/D8/N57ZBR35JUT1LSUBZ6PXB8
+[2024.05.02-09.35.57:669][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/N57ZBR35JUT1LSUBZ6PXB8E8B81A444DDCB109D2DF27AC0F6929C3.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/D8/N57ZBR35JUT1LSUBZ6PXB8.uasset'
+[2024.05.02-09.35.57:670][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HH/JS3G8NVZM86C9I9Y3QCJ71
+[2024.05.02-09.35.57:670][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/JS3G8NVZM86C9I9Y3QCJ71674446D744CFFEAA7DDFBBBCC6AB395A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HH/JS3G8NVZM86C9I9Y3QCJ71.uasset'
+[2024.05.02-09.35.57:671][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0D/IGGQANXFS2A6FMX73CBRR9
+[2024.05.02-09.35.57:671][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/IGGQANXFS2A6FMX73CBRR91458D28247F8F53E4F9C0E92DED331D2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0D/IGGQANXFS2A6FMX73CBRR9.uasset'
+[2024.05.02-09.35.57:672][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0V/3YJEVEMEFSV99WVEYVUFBB
+[2024.05.02-09.35.57:672][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/3YJEVEMEFSV99WVEYVUFBB2555E9F649B8E4179C09FF9906FF3CDB.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0V/3YJEVEMEFSV99WVEYVUFBB.uasset'
+[2024.05.02-09.35.57:674][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HC/DZCN6JJNSLS7A2CR51MH68
+[2024.05.02-09.35.57:674][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/DZCN6JJNSLS7A2CR51MH68AA30D58B48EC51E5562E10A9806AE94A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HC/DZCN6JJNSLS7A2CR51MH68.uasset'
+[2024.05.02-09.35.57:676][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y4/OO69DOX4NPSEM9F6SNE6NB
+[2024.05.02-09.35.57:676][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/OO69DOX4NPSEM9F6SNE6NBB37C8F5D458E7A1E5BEABBBCEB0B377A.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y4/OO69DOX4NPSEM9F6SNE6NB.uasset'
+[2024.05.02-09.35.57:677][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/N5/YL7DEMAGLNLV1BZODHQ433
+[2024.05.02-09.35.57:677][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/YL7DEMAGLNLV1BZODHQ4331E9CA23140C218B45E771980415B5E02.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/N5/YL7DEMAGLNLV1BZODHQ433.uasset'
+[2024.05.02-09.35.57:680][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TT/68HF07GGV6G1AQB0HASV68
+[2024.05.02-09.35.57:680][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/68HF07GGV6G1AQB0HASV68948902D544E3FFFB590BE5B1205452CB.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TT/68HF07GGV6G1AQB0HASV68.uasset'
+[2024.05.02-09.35.57:682][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/35/OWA2O4E84QI8VXV6VJGI5H
+[2024.05.02-09.35.57:682][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/OWA2O4E84QI8VXV6VJGI5HCBEDE1A147FEAD0CEB1ABCA595985295.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/35/OWA2O4E84QI8VXV6VJGI5H.uasset'
+[2024.05.02-09.35.57:684][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EY/61PH5S6DVXQHXMU2VX5372
+[2024.05.02-09.35.57:684][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/61PH5S6DVXQHXMU2VX5372ADE7CFE24E7D44622100C7A601330B39.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EY/61PH5S6DVXQHXMU2VX5372.uasset'
+[2024.05.02-09.35.57:686][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SZ/A7MFLITDWHO9X9R0IZP5ZC
+[2024.05.02-09.35.57:686][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/A7MFLITDWHO9X9R0IZP5ZC3E17EF4D4DC0C458562C0F885C215ECB.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SZ/A7MFLITDWHO9X9R0IZP5ZC.uasset'
+[2024.05.02-09.35.57:687][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XM/MLURX4RRRUL7KUXWZC7SJO
+[2024.05.02-09.35.57:687][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/MLURX4RRRUL7KUXWZC7SJODC73998B4CAF9CBA3BD45184FF9A00FA.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XM/MLURX4RRRUL7KUXWZC7SJO.uasset'
+[2024.05.02-09.35.57:688][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1N/WZRK8KWZ2LBUPBIKC4JWEU
+[2024.05.02-09.35.57:688][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/WZRK8KWZ2LBUPBIKC4JWEUF1E2CE42453810F0B09F6F961DBFED96.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1N/WZRK8KWZ2LBUPBIKC4JWEU.uasset'
+[2024.05.02-09.35.57:690][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IJ/YIER3QTDZ37AWYEGQE9HXR
+[2024.05.02-09.35.57:690][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/YIER3QTDZ37AWYEGQE9HXRE549014748DA24DDACED39B324B36489.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IJ/YIER3QTDZ37AWYEGQE9HXR.uasset'
+[2024.05.02-09.35.57:692][ 56]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DD/GJZD862PBB3SGWQ3KJ79S3
+[2024.05.02-09.35.57:692][ 56]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/GJZD862PBB3SGWQ3KJ79S3A14B8FAC473FFA09A41F4488D9312CF8.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DD/GJZD862PBB3SGWQ3KJ79S3.uasset'
+[2024.05.02-09.35.57:704][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 602 ms)
+[2024.05.02-09.35.57:709][ 56]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BFF001_1237354716
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486BFF001_1263462717
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1544932088
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1544932087
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1276897060
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1276901062
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1276902063
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1321338065
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1321342067
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1321343068
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497728080
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497732082
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1497732083
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_1544928085
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2052174094
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_2052178095
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2052179096
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2052179097
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_2052180098
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2071674099
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_2071677100
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2071678101
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2071679102
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_2071679103
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2095339104
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_C87F54EAF486B8F101_2095343105
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2095343106
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B8F101_2095344107
+[2024.05.02-09.35.57:709][ 56]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Emitter_UAID_C87F54EAF486B8F101_2095344108
+[2024.05.02-09.36.05:390][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.36.05:432][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.36.05:437][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.36.05:442][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.36.05:454][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 666 ms)
+[2024.05.02-09.36.07:775][188]LogViewport: Scene viewport resized to 1310x495, mode Windowed.
+[2024.05.02-09.36.07:789][189]LogViewport: Scene viewport resized to 1310x499, mode Windowed.
+[2024.05.02-09.36.07:805][190]LogViewport: Scene viewport resized to 1310x505, mode Windowed.
+[2024.05.02-09.36.07:825][191]LogViewport: Scene viewport resized to 1310x515, mode Windowed.
+[2024.05.02-09.36.07:843][192]LogViewport: Scene viewport resized to 1310x528, mode Windowed.
+[2024.05.02-09.36.07:864][193]LogViewport: Scene viewport resized to 1310x542, mode Windowed.
+[2024.05.02-09.36.07:885][194]LogViewport: Scene viewport resized to 1310x559, mode Windowed.
+[2024.05.02-09.36.07:904][195]LogViewport: Scene viewport resized to 1310x575, mode Windowed.
+[2024.05.02-09.36.07:926][196]LogViewport: Scene viewport resized to 1310x593, mode Windowed.
+[2024.05.02-09.36.07:942][197]LogViewport: Scene viewport resized to 1310x609, mode Windowed.
+[2024.05.02-09.36.07:963][198]LogViewport: Scene viewport resized to 1310x625, mode Windowed.
+[2024.05.02-09.36.07:982][199]LogViewport: Scene viewport resized to 1310x638, mode Windowed.
+[2024.05.02-09.36.08:002][200]LogViewport: Scene viewport resized to 1310x649, mode Windowed.
+[2024.05.02-09.36.08:019][201]LogViewport: Scene viewport resized to 1310x656, mode Windowed.
+[2024.05.02-09.36.08:039][202]LogViewport: Scene viewport resized to 1310x663, mode Windowed.
+[2024.05.02-09.36.08:057][203]LogViewport: Scene viewport resized to 1310x668, mode Windowed.
+[2024.05.02-09.36.08:078][204]LogViewport: Scene viewport resized to 1310x672, mode Windowed.
+[2024.05.02-09.36.08:098][205]LogViewport: Scene viewport resized to 1310x676, mode Windowed.
+[2024.05.02-09.36.08:116][206]LogViewport: Scene viewport resized to 1310x677, mode Windowed.
+[2024.05.02-09.36.20:524][659]LogViewport: Scene viewport resized to 1310x674, mode Windowed.
+[2024.05.02-09.36.20:539][660]LogViewport: Scene viewport resized to 1310x669, mode Windowed.
+[2024.05.02-09.36.20:559][661]LogViewport: Scene viewport resized to 1310x662, mode Windowed.
+[2024.05.02-09.36.20:577][662]LogViewport: Scene viewport resized to 1310x652, mode Windowed.
+[2024.05.02-09.36.20:597][663]LogViewport: Scene viewport resized to 1310x644, mode Windowed.
+[2024.05.02-09.36.20:616][664]LogViewport: Scene viewport resized to 1310x636, mode Windowed.
+[2024.05.02-09.36.20:633][665]LogViewport: Scene viewport resized to 1310x627, mode Windowed.
+[2024.05.02-09.36.20:655][666]LogViewport: Scene viewport resized to 1310x615, mode Windowed.
+[2024.05.02-09.36.20:674][667]LogViewport: Scene viewport resized to 1310x606, mode Windowed.
+[2024.05.02-09.36.20:692][668]LogViewport: Scene viewport resized to 1310x597, mode Windowed.
+[2024.05.02-09.36.20:711][669]LogViewport: Scene viewport resized to 1310x588, mode Windowed.
+[2024.05.02-09.36.20:732][670]LogViewport: Scene viewport resized to 1310x581, mode Windowed.
+[2024.05.02-09.36.20:749][671]LogViewport: Scene viewport resized to 1310x576, mode Windowed.
+[2024.05.02-09.36.20:770][672]LogViewport: Scene viewport resized to 1310x571, mode Windowed.
+[2024.05.02-09.36.20:789][673]LogViewport: Scene viewport resized to 1310x567, mode Windowed.
+[2024.05.02-09.36.20:809][674]LogViewport: Scene viewport resized to 1310x566, mode Windowed.
+[2024.05.02-09.36.20:832][675]LogViewport: Scene viewport resized to 1310x563, mode Windowed.
+[2024.05.02-09.36.20:847][676]LogViewport: Scene viewport resized to 1310x560, mode Windowed.
+[2024.05.02-09.36.20:883][679]LogViewport: Scene viewport resized to 1310x559, mode Windowed.
+[2024.05.02-09.36.20:898][680]LogViewport: Scene viewport resized to 1310x557, mode Windowed.
+[2024.05.02-09.36.20:918][681]LogViewport: Scene viewport resized to 1310x556, mode Windowed.
+[2024.05.02-09.36.20:960][685]LogViewport: Scene viewport resized to 1310x553, mode Windowed.
+[2024.05.02-09.36.21:063][696]LogViewport: Scene viewport resized to 1310x554, mode Windowed.
+[2024.05.02-09.36.21:078][697]LogViewport: Scene viewport resized to 1310x558, mode Windowed.
+[2024.05.02-09.36.21:091][698]LogViewport: Scene viewport resized to 1310x561, mode Windowed.
+[2024.05.02-09.36.21:110][699]LogViewport: Scene viewport resized to 1310x566, mode Windowed.
+[2024.05.02-09.36.21:128][700]LogViewport: Scene viewport resized to 1310x573, mode Windowed.
+[2024.05.02-09.36.21:148][701]LogViewport: Scene viewport resized to 1310x578, mode Windowed.
+[2024.05.02-09.36.21:164][702]LogViewport: Scene viewport resized to 1310x583, mode Windowed.
+[2024.05.02-09.36.21:184][703]LogViewport: Scene viewport resized to 1310x589, mode Windowed.
+[2024.05.02-09.36.21:203][704]LogViewport: Scene viewport resized to 1310x596, mode Windowed.
+[2024.05.02-09.36.21:221][705]LogViewport: Scene viewport resized to 1310x600, mode Windowed.
+[2024.05.02-09.36.21:240][706]LogViewport: Scene viewport resized to 1310x604, mode Windowed.
+[2024.05.02-09.36.21:258][707]LogViewport: Scene viewport resized to 1310x608, mode Windowed.
+[2024.05.02-09.36.21:279][708]LogViewport: Scene viewport resized to 1310x610, mode Windowed.
+[2024.05.02-09.36.21:296][709]LogViewport: Scene viewport resized to 1310x613, mode Windowed.
+[2024.05.02-09.36.21:317][710]LogViewport: Scene viewport resized to 1310x615, mode Windowed.
+[2024.05.02-09.36.21:336][711]LogViewport: Scene viewport resized to 1310x617, mode Windowed.
+[2024.05.02-09.36.21:354][712]LogViewport: Scene viewport resized to 1310x619, mode Windowed.
+[2024.05.02-09.36.21:375][713]LogViewport: Scene viewport resized to 1310x620, mode Windowed.
+[2024.05.02-09.36.21:475][724]LogViewport: Scene viewport resized to 1310x622, mode Windowed.
+[2024.05.02-09.36.29:992][709]Cmd: EDIT COPY
+[2024.05.02-09.36.37:560][536]Cmd: EDIT COPY
+[2024.05.02-09.36.37:766][550]Cmd: EDIT PASTE
+[2024.05.02-09.36.45:392][410]Cmd: DELETE
+[2024.05.02-09.36.45:392][410]Cmd: ACTOR DELETE
+[2024.05.02-09.36.45:395][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.36.45:395][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.36.45:395][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.36.45:396][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.36.45:396][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.36.45:396][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-09.36.45:401][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.02-09.36.45:403][410]LogEditorActor: Deleted 6 Actors (0.010 secs)
+[2024.05.02-09.36.54:813][459]Cmd: EDIT COPY
+[2024.05.02-09.36.54:999][472]Cmd: EDIT PASTE
+[2024.05.02-09.36.54:999][472]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.05.02-09.37.20:561][325]Cmd: EDIT COPY
+[2024.05.02-09.37.20:752][348]Cmd: EDIT PASTE
+[2024.05.02-09.38.01:416][987]Cmd: EDIT COPY
+[2024.05.02-09.38.01:621][ 10]Cmd: EDIT PASTE
+[2024.05.02-09.38.20:531][224]Cmd: EDIT COPY
+[2024.05.02-09.38.20:722][242]Cmd: EDIT PASTE
+[2024.05.02-09.38.31:320][416]Cmd: EDIT COPY
+[2024.05.02-09.38.31:510][438]Cmd: EDIT PASTE
+[2024.05.02-09.38.36:309][  3]Cmd: EDIT COPY
+[2024.05.02-09.38.36:530][ 18]Cmd: EDIT PASTE
+[2024.05.02-09.38.43:544][757]Cmd: EDIT COPY
+[2024.05.02-09.38.43:756][774]Cmd: EDIT PASTE
+[2024.05.02-09.38.59:869][527]Cmd: EDIT COPY
+[2024.05.02-09.39.00:061][550]Cmd: EDIT PASTE
+[2024.05.02-09.39.08:407][529]Cmd: EDIT COPY
+[2024.05.02-09.39.08:884][563]Cmd: EDIT PASTE
+[2024.05.02-09.39.21:422][  1]Cmd: EDIT COPY
+[2024.05.02-09.39.21:626][ 22]Cmd: EDIT PASTE
+[2024.05.02-09.39.29:253][868]Cmd: EDIT COPY
+[2024.05.02-09.39.29:451][882]Cmd: EDIT PASTE
+[2024.05.02-09.39.42:145][314]Cmd: EDIT COPY
+[2024.05.02-09.39.42:350][331]Cmd: EDIT PASTE
+[2024.05.02-09.39.52:301][376]Cmd: EDIT COPY
+[2024.05.02-09.39.52:499][399]Cmd: EDIT PASTE
+[2024.05.02-09.40.19:250][396]Cmd: TRANSACTION UNDO
+[2024.05.02-09.40.19:250][396]LogEditorTransaction: Undo Scale Elements
+[2024.05.02-09.40.36:081][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.40.36:130][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.02-09.40.36:135][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.40.36:139][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.40.36:141][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/XV/U3GMNOZLH3KBXNLTNU82A7
+[2024.05.02-09.40.36:141][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/U3GMNOZLH3KBXNLTNU82A7B915B0ED4AE2C5CD5AB7E1B294B90AF2.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/XV/U3GMNOZLH3KBXNLTNU82A7.uasset'
+[2024.05.02-09.40.36:142][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/9E/5RQCWLI7BT5JWDPWQMLZIN
+[2024.05.02-09.40.36:142][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/5RQCWLI7BT5JWDPWQMLZIN4D6DF7914661F13B2716C3B6FB922DF9.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/9E/5RQCWLI7BT5JWDPWQMLZIN.uasset'
+[2024.05.02-09.40.36:143][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/K2/ZXWJONI0HN2C349VWMIJI2
+[2024.05.02-09.40.36:143][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ZXWJONI0HN2C349VWMIJI27D7DB031430EB2ABCEFD349030E88910.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/K2/ZXWJONI0HN2C349VWMIJI2.uasset'
+[2024.05.02-09.40.36:145][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9K/3SDW0XCFZH3ZOSBO901R62
+[2024.05.02-09.40.36:145][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/3SDW0XCFZH3ZOSBO901R6261CD768842032560D381B6A03905933B.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9K/3SDW0XCFZH3ZOSBO901R62.uasset'
+[2024.05.02-09.40.36:147][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E0/3R01VTQMUFOQEL103MDM3D
+[2024.05.02-09.40.36:147][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/3R01VTQMUFOQEL103MDM3DA53EA5984CBCC0BB1793C8AFBBB7FD83.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E0/3R01VTQMUFOQEL103MDM3D.uasset'
+[2024.05.02-09.40.36:148][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/9J/2I94GQCYIR15ZSXMSROUX0
+[2024.05.02-09.40.36:148][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/2I94GQCYIR15ZSXMSROUX070E34B5047AA196BB30EF58D729A3678.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/9J/2I94GQCYIR15ZSXMSROUX0.uasset'
+[2024.05.02-09.40.36:150][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/K9/J1G5QJDP57RMSUNH4GGZT9
+[2024.05.02-09.40.36:150][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/J1G5QJDP57RMSUNH4GGZT9DF588EEA46E01BF19FA4E5B97772BA78.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/K9/J1G5QJDP57RMSUNH4GGZT9.uasset'
+[2024.05.02-09.40.36:151][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/K3/ME8GB06ZX9LZYN85DFIUYK
+[2024.05.02-09.40.36:151][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ME8GB06ZX9LZYN85DFIUYKBD04EFEA484DDCA6C18A52A90A0390CC.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/K3/ME8GB06ZX9LZYN85DFIUYK.uasset'
+[2024.05.02-09.40.36:153][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DG/3LST6VMKN4XMQUYF0FMGV4
+[2024.05.02-09.40.36:153][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/3LST6VMKN4XMQUYF0FMGV4684D9C20484F2A47AD9CA4A63C425EBE.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DG/3LST6VMKN4XMQUYF0FMGV4.uasset'
+[2024.05.02-09.40.36:155][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KU/3K3RXJUPSEW91LNTP1JQBQ
+[2024.05.02-09.40.36:155][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/3K3RXJUPSEW91LNTP1JQBQ9A460CF74EFE5219AFE98B9DEB0D461E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KU/3K3RXJUPSEW91LNTP1JQBQ.uasset'
+[2024.05.02-09.40.36:156][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QC/C3PC7SGPXQLHTE6D9RY9NS
+[2024.05.02-09.40.36:156][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/C3PC7SGPXQLHTE6D9RY9NSA9B651C24774C9B054B4F392885860A1.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QC/C3PC7SGPXQLHTE6D9RY9NS.uasset'
+[2024.05.02-09.40.36:158][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/7K/11KDQVTLC1RU7FDP3BGVNP
+[2024.05.02-09.40.36:159][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/11KDQVTLC1RU7FDP3BGVNP18716D0E4B197FC103458E977AB7A14D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/7K/11KDQVTLC1RU7FDP3BGVNP.uasset'
+[2024.05.02-09.40.36:160][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OV/C43PANIS8507S0W7NYZD88
+[2024.05.02-09.40.36:160][ 80]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/C43PANIS8507S0W7NYZD8845D32F96454608852B4B90BA84727E7D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OV/C43PANIS8507S0W7NYZD88.uasset'
+[2024.05.02-09.40.36:173][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 757 ms)
+[2024.05.02-09.40.36:176][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1126753291
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1152506292
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1193375293
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1212475294
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1223263295
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1228283296
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1235510297
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1251814298
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1260637299
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1273379300
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1281205301
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1294103302
+[2024.05.02-09.40.36:176][ 80]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1304252303
+[2024.05.02-09.40.57:520][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.40.57:565][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.02-09.40.57:570][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.40.57:574][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.40.57:586][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 823 ms)
+[2024.05.02-09.41.00:417][866]Cmd: EDIT COPY
+[2024.05.02-09.41.00:622][890]Cmd: EDIT PASTE
+[2024.05.02-09.41.33:619][689]Cmd: EDIT COPY
+[2024.05.02-09.41.33:865][708]Cmd: EDIT PASTE
+[2024.05.02-09.41.59:818][689]Cmd: EDIT COPY
+[2024.05.02-09.42.00:023][713]Cmd: EDIT PASTE
+[2024.05.02-09.42.12:294][115]Cmd: EDIT COPY
+[2024.05.02-09.42.12:527][143]Cmd: EDIT PASTE
+[2024.05.02-09.42.37:044][975]Cmd: EDIT COPY
+[2024.05.02-09.42.37:224][996]Cmd: EDIT PASTE
+[2024.05.02-09.43.03:603][ 38]Cmd: TRANSACTION UNDO
+[2024.05.02-09.43.03:603][ 38]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.43.04:955][117]Cmd: TRANSACTION UNDO
+[2024.05.02-09.43.04:955][117]LogEditorTransaction: Undo Move Elements
+[2024.05.02-09.43.14:727][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.43.14:768][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.02-09.43.14:774][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.43.14:782][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.05.02-09.43.14:783][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QO/PTCE5I36NKX542XNQ2JV8L
+[2024.05.02-09.43.14:783][ 68]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/PTCE5I36NKX542XNQ2JV8L4F913EF04CB06766F2DC778C64979ADA.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QO/PTCE5I36NKX542XNQ2JV8L.uasset'
+[2024.05.02-09.43.14:785][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KL/RSXEQCCN97MM3DTPNSTZUU
+[2024.05.02-09.43.14:785][ 68]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/RSXEQCCN97MM3DTPNSTZUU3491D1EA455C4723F1EBB0B69C65D8A9.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KL/RSXEQCCN97MM3DTPNSTZUU.uasset'
+[2024.05.02-09.43.14:786][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/YJ/H6QYWJO7H52GUCX2PHR6KC
+[2024.05.02-09.43.14:786][ 68]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/H6QYWJO7H52GUCX2PHR6KC2CD520C5445710ABE58D03846DC26E96.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/YJ/H6QYWJO7H52GUCX2PHR6KC.uasset'
+[2024.05.02-09.43.14:789][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6O/RXMN00ZXNT1L9GONXHOR55
+[2024.05.02-09.43.14:789][ 68]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/RXMN00ZXNT1L9GONXHOR55F736D512486C4E218DF008817817CC55.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6O/RXMN00ZXNT1L9GONXHOR55.uasset'
+[2024.05.02-09.43.14:791][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DF/SUDKGAGB952JRPLGROGOI5
+[2024.05.02-09.43.14:791][ 68]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/SUDKGAGB952JRPLGROGOI5AA3F7DBE416DC0E3FE4A8884549A671B.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DF/SUDKGAGB952JRPLGROGOI5.uasset'
+[2024.05.02-09.43.14:803][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 899 ms)
+[2024.05.02-09.43.14:805][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.43.14:805][ 68]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1372376304
+[2024.05.02-09.43.14:805][ 68]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1405618305
+[2024.05.02-09.43.14:805][ 68]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1431776306
+[2024.05.02-09.43.14:805][ 68]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1444281307
+[2024.05.02-09.43.14:805][ 68]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1468978308
+[2024.05.02-09.43.24:293][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.43.24:332][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.43.24:338][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.05.02-09.43.24:343][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.43.24:354][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 960 ms)
+[2024.05.02-09.44.10:925][732]Cmd: EDIT COPY
+[2024.05.02-09.44.11:120][754]Cmd: EDIT PASTE
+[2024.05.02-09.44.24:543][346]Cmd: EDIT COPY
+[2024.05.02-09.44.24:732][368]Cmd: EDIT PASTE
+[2024.05.02-09.44.49:582][213]Cmd: EDIT COPY
+[2024.05.02-09.44.49:778][227]Cmd: EDIT PASTE
+[2024.05.02-09.45.12:832][817]Cmd: EDIT COPY
+[2024.05.02-09.45.13:062][844]Cmd: EDIT PASTE
+[2024.05.02-09.45.54:500][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.45.54:540][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.02-09.45.54:546][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.45.54:552][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.45.54:553][648]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KL/RSXEQCCN97MM3DTPNSTZUU
+[2024.05.02-09.45.54:554][648]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/RSXEQCCN97MM3DTPNSTZUUD7BC0524449DC9BB49087F939D575C91.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KL/RSXEQCCN97MM3DTPNSTZUU.uasset'
+[2024.05.02-09.45.54:555][648]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/W5/FPMR619XRJ94KMZC1N29UR
+[2024.05.02-09.45.54:555][648]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/FPMR619XRJ94KMZC1N29UR76C8D70947A6032AE9C05593F78C9F96.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/W5/FPMR619XRJ94KMZC1N29UR.uasset'
+[2024.05.02-09.45.54:557][648]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ZM/7I5N6JML0O13H6A8NAVR7D
+[2024.05.02-09.45.54:557][648]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/7I5N6JML0O13H6A8NAVR7DCC2FD4794E9B3155548670A075F6F8F1.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ZM/7I5N6JML0O13H6A8NAVR7D.uasset'
+[2024.05.02-09.45.54:559][648]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Q6/YCY65K75YRWNGAXYHZZHGZ
+[2024.05.02-09.45.54:559][648]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/YCY65K75YRWNGAXYHZZHGZFCDBB66F44C5DF7256D13B893BE58C89.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Q6/YCY65K75YRWNGAXYHZZHGZ.uasset'
+[2024.05.02-09.45.54:562][648]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I7/T7DQOPFPV9PEH7GTXESOHR
+[2024.05.02-09.45.54:562][648]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/T7DQOPFPV9PEH7GTXESOHRA06A64424281C959537EDC984C59F0F1.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I7/T7DQOPFPV9PEH7GTXESOHR.uasset'
+[2024.05.02-09.45.54:573][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.03 sec)
+[2024.05.02-09.45.54:576][648]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.45.54:576][648]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1405618305
+[2024.05.02-09.45.54:576][648]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1562874309
+[2024.05.02-09.45.54:576][648]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1576485310
+[2024.05.02-09.45.54:576][648]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1601532311
+[2024.05.02-09.45.54:576][648]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1624816312
+[2024.05.02-09.46.09:059][305]Cmd: EDIT COPY
+[2024.05.02-09.46.09:250][327]Cmd: EDIT PASTE
+[2024.05.02-09.46.11:417][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.46.18:058][318]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.46.24:002][996]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.46.26:882][331]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-09.46.46:949][497]Cmd: EDIT COPY
+[2024.05.02-09.46.47:155][521]Cmd: EDIT PASTE
+[2024.05.02-09.47.09:726][ 45]Cmd: EDIT COPY
+[2024.05.02-09.47.09:909][ 67]Cmd: EDIT PASTE
+[2024.05.02-09.47.21:194][397]Cmd: EDIT COPY
+[2024.05.02-09.47.21:428][425]Cmd: EDIT PASTE
+[2024.05.02-09.47.30:229][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.47.30:279][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.02-09.47.30:286][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.02-09.47.30:293][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.05.02-09.47.30:294][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/AQ/FJ05MDRD7CF51JB87V62KY
+[2024.05.02-09.47.30:294][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/FJ05MDRD7CF51JB87V62KY1C1887114B256FFB10B413A1A568E8CB.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/AQ/FJ05MDRD7CF51JB87V62KY.uasset'
+[2024.05.02-09.47.30:296][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EP/ZFT1YR0RLYCI3R0I37F5BV
+[2024.05.02-09.47.30:296][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/ZFT1YR0RLYCI3R0I37F5BVB81C75A64F984A9F60AC8EB608A2ED01.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EP/ZFT1YR0RLYCI3R0I37F5BV.uasset'
+[2024.05.02-09.47.30:298][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FH/QH8C3QCJ7GO4IIXZXSJ6WT
+[2024.05.02-09.47.30:298][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/QH8C3QCJ7GO4IIXZXSJ6WT171CAC334C1DEF639DCD578513F837B6.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FH/QH8C3QCJ7GO4IIXZXSJ6WT.uasset'
+[2024.05.02-09.47.30:300][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZI/VE3PME9XZV9K1M79SKAEKL
+[2024.05.02-09.47.30:300][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/VE3PME9XZV9K1M79SKAEKLDF32DC7548D8FA9F2641648754D4CD12.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZI/VE3PME9XZV9K1M79SKAEKL.uasset'
+[2024.05.02-09.47.30:302][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HY/89HVI6QUTG5OQBSLUAUFUZ
+[2024.05.02-09.47.30:302][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/89HVI6QUTG5OQBSLUAUFUZ64B9D73E4EEEA1CA54353A9D0C56F5DE.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HY/89HVI6QUTG5OQBSLUAUFUZ.uasset'
+[2024.05.02-09.47.30:303][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/3M/VY5MA7ZMCAL2FNHPUKZ77S
+[2024.05.02-09.47.30:303][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/VY5MA7ZMCAL2FNHPUKZ77S2175CCF84F2015EAD5F0C0BF5D925EF9.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/3M/VY5MA7ZMCAL2FNHPUKZ77S.uasset'
+[2024.05.02-09.47.30:306][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N0/OX0NA8FU3YI3IV96SGJJMO
+[2024.05.02-09.47.30:306][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/OX0NA8FU3YI3IV96SGJJMOC54BD6B94D80E69D11085A8EEC879778.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N0/OX0NA8FU3YI3IV96SGJJMO.uasset'
+[2024.05.02-09.47.30:307][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FI/7I8Q1FHEFW0JQ6HSNZQ9HU
+[2024.05.02-09.47.30:307][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/7I8Q1FHEFW0JQ6HSNZQ9HUE3E6F9A748B9B991A28314A3D9F15DFD.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FI/7I8Q1FHEFW0JQ6HSNZQ9HU.uasset'
+[2024.05.02-09.47.30:309][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/C0/91U4V905PDMYUQQ0DFYEVK
+[2024.05.02-09.47.30:309][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/91U4V905PDMYUQQ0DFYEVK21C2E5AC48573566839749B543D4A2DC.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/C0/91U4V905PDMYUQQ0DFYEVK.uasset'
+[2024.05.02-09.47.30:311][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UT/S1OH5LMLWK1BPHL96MLBRQ
+[2024.05.02-09.47.30:311][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/S1OH5LMLWK1BPHL96MLBRQEF52F75B4D876BAA5CA33EB23CF10ACC.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UT/S1OH5LMLWK1BPHL96MLBRQ.uasset'
+[2024.05.02-09.47.30:313][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A0/JSZUBBLWGE6XH0N1250LK9
+[2024.05.02-09.47.30:313][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/JSZUBBLWGE6XH0N1250LK965A37F294456EC67FA6804A9F3281A9D.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A0/JSZUBBLWGE6XH0N1250LK9.uasset'
+[2024.05.02-09.47.30:314][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KQ/5ZQVLS0JO447375M0JE45O
+[2024.05.02-09.47.30:315][444]LogSavePackage: Moving '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Saved/5ZQVLS0JO447375M0JE45OCC943FE3425EA100892BC7A7D118215E.tmp' to '../../../../../../Users/pain6/Documents/GitHub/MiniOpenWorld/MiniOpenWorld/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KQ/5ZQVLS0JO447375M0JE45O.uasset'
+[2024.05.02-09.47.30:327][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.13 sec)
+[2024.05.02-09.47.30:329][444]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF48673F101_1897774969
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF48673F101_1897770967
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1681003313
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1681007314
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1681007315
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1718908316
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1718912317
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1718912318
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1741662319
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1741666320
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1753181321
+[2024.05.02-09.47.30:329][444]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54EAF486B9F101_1753185322
+[2024.05.02-09.47.48:009][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-09.47.48:047][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.02-09.47.48:052][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.47.48:057][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.02-09.47.48:070][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.19 sec)
